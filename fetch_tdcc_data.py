@@ -253,7 +253,7 @@ def save_json(data: Dict, filename: str):
     """
     儲存 JSON 檔案
     """
-    filepath = f"/Users/chehungliu/Desktop/fund-database/data/{filename}"
+    filepath = f"data/{filename}"
 
     try:
         with open(filepath, 'w', encoding='utf-8') as f:
