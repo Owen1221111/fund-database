@@ -9,9 +9,12 @@ TDCC 基金資料抓取腳本
 import urllib.request
 import csv
 import json
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 from typing import List, Dict
 import io
+
+# 設定台灣時區 (UTC+8)
+TW_TZ = timezone(timedelta(hours=8))
 
 # API 端點
 OFFSHORE_NAV_API = "https://opendata.tdcc.com.tw/getOD.ashx?id=3-4"  # 境外基金淨值
@@ -296,7 +299,7 @@ def main():
 
     # 4.1 完整基金清單
     funds_master = {
-        "lastUpdate": datetime.now().isoformat(),
+        "lastUpdate": datetime.now(TW_TZ).isoformat(),
         "count": len(all_funds),
         "funds": all_funds
     }
@@ -304,7 +307,7 @@ def main():
 
     # 4.2 熱門基金清單
     funds_popular = {
-        "lastUpdate": datetime.now().isoformat(),
+        "lastUpdate": datetime.now(TW_TZ).isoformat(),
         "count": len(popular_funds),
         "funds": popular_funds
     }
@@ -312,15 +315,15 @@ def main():
 
     # 4.3 淨值快取
     funds_nav = {
-        "lastUpdate": datetime.now().isoformat(),
+        "lastUpdate": datetime.now(TW_TZ).isoformat(),
         "navData": nav_cache
     }
     save_json(funds_nav, "funds-nav-latest.json")
 
     # 4.4 最後更新時間
     last_update = {
-        "lastUpdate": datetime.now().isoformat(),
-        "timestamp": int(datetime.now().timestamp()),
+        "lastUpdate": datetime.now(TW_TZ).isoformat(),
+        "timestamp": int(datetime.now(TW_TZ).timestamp()),
         "totalFunds": len(all_funds),
         "popularFunds": len(popular_funds),
         "navCacheSize": len(nav_cache)
@@ -334,7 +337,7 @@ def main():
     print(f"總基金數量：{len(all_funds)} 檔")
     print(f"熱門基金數量：{len(popular_funds)} 檔")
     print(f"淨值快取數量：{len(nav_cache)} 筆")
-    print(f"最後更新時間：{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    print(f"最後更新時間：{datetime.now(TW_TZ).strftime('%Y-%m-%d %H:%M:%S')}")
     print("=" * 60)
     print("✅ 所有資料已成功產生！")
     print("=" * 60)
