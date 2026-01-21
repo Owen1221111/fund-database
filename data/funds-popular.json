@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-20T22:27:31.841521+08:00",
+  "lastUpdate": "2026-01-21T11:42:43.925934+08:00",
   "count": 100,
   "funds": [
     {
@@ -912,8 +912,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "EUR",
-      "latestNav": "29.840000",
-      "navDate": "20260116"
+      "latestNav": "29.850000",
+      "navDate": "20260119"
     },
     {
       "fundCode": "BLKABBDD",
@@ -923,8 +923,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "EUR",
-      "latestNav": "150.050000",
-      "navDate": "20260116"
+      "latestNav": "149.480000",
+      "navDate": "20260119"
     },
     {
       "fundCode": "BLKAEFDD",
@@ -934,8 +934,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "88.870000",
-      "navDate": "20260116"
+      "latestNav": "88.840000",
+      "navDate": "20260119"
     },
     {
       "fundCode": "BLKAEMDU",
@@ -945,8 +945,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "57.130000",
-      "navDate": "20260116"
+      "latestNav": "57.070000",
+      "navDate": "20260119"
     },
     {
       "fundCode": "DIOE2",
@@ -1070,6 +1070,17 @@
       "navDate": "20260120"
     },
     {
+      "fundCode": "DDA02",
+      "fundName": "安聯台灣主動式ETF基金",
+      "isinCode": "00993A",
+      "company": "安聯投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "10",
+      "navDate": "20260120"
+    },
+    {
       "fundCode": "DDO09",
       "fundName": "安聯台灣大壩基金-A類型-新臺幣",
       "isinCode": "T3601Y",
@@ -1089,17 +1100,6 @@
       "region": "境內",
       "currency": "TWD",
       "latestNav": "56.62",
-      "navDate": "20260120"
-    },
-    {
-      "fundCode": "DDM01",
-      "fundName": "安聯台灣貨幣市場基金",
-      "isinCode": "T3602Y",
-      "company": "安聯投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "13.273",
       "navDate": "20260120"
     }
   ]
