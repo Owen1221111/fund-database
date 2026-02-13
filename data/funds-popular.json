@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-12T22:43:56.839303+08:00",
+  "lastUpdate": "2026-02-13T12:21:01.949237+08:00",
   "count": 100,
   "funds": [
     {
@@ -58,58 +58,58 @@
       "navDate": "20260211"
     },
     {
-      "fundCode": "DIE06",
-      "fundName": "富邦上証180基金",
-      "isinCode": "006205",
+      "fundCode": "DIOC6",
+      "fundName": "富邦雙核心戰略多重資產基金-A類型(新台幣)",
+      "isinCode": "T10A1A",
       "company": "富邦投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "41.51",
+      "latestNav": "11.2852",
       "navDate": "20260211"
     },
     {
-      "fundCode": "DIE01",
-      "fundName": "富邦中國ETF傘型基金之富邦上証180單日正向兩倍基金",
-      "isinCode": "00633L",
+      "fundCode": "DIOC7",
+      "fundName": "富邦雙核心戰略多重資產基金-NA類型(新台幣)",
+      "isinCode": "T10A1B",
       "company": "富邦投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "47.86",
+      "latestNav": "11.2852",
       "navDate": "20260211"
     },
     {
-      "fundCode": "DIE02",
-      "fundName": "富邦中國ETF傘型基金之富邦上証180單日反向一倍基金",
-      "isinCode": "00634R",
+      "fundCode": "DIOC8",
+      "fundName": "富邦雙核心戰略多重資產基金-B類型(新台幣)",
+      "isinCode": "T10A1C",
       "company": "富邦投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "3.26",
+      "latestNav": "11.1165",
       "navDate": "20260211"
     },
     {
-      "fundCode": "DIE07",
-      "fundName": "富邦深証100基金",
-      "isinCode": "00639",
+      "fundCode": "DIOC9",
+      "fundName": "富邦雙核心戰略多重資產基金-NB類型(新台幣)",
+      "isinCode": "T10A1D",
       "company": "富邦投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "15.47",
+      "latestNav": "11.1165",
       "navDate": "20260211"
     },
     {
-      "fundCode": "DIE13",
-      "fundName": "富邦恒生國企ETF傘型基金之富邦恒生國企單日反向一倍基金",
-      "isinCode": "00666R",
+      "fundCode": "DIOD1",
+      "fundName": "富邦雙核心戰略多重資產基金-A類型(人民幣)",
+      "isinCode": "T10A1E",
       "company": "富邦投信",
       "type": "境內基金",
       "region": "境內",
-      "currency": "TWD",
-      "latestNav": "8.61",
+      "currency": "CNY",
+      "latestNav": "10.3521",
       "navDate": "20260211"
     },
     {
