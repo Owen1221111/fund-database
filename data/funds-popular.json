@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-13T22:38:42.298933+08:00",
+  "lastUpdate": "2026-02-14T12:10:17.794735+08:00",
   "count": 100,
   "funds": [
     {
@@ -890,8 +890,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "EUR",
-      "latestNav": "30.000000",
-      "navDate": "20260211"
+      "latestNav": "30.060000",
+      "navDate": "20260212"
     },
     {
       "fundCode": "BLKABBDD",
@@ -901,8 +901,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "EUR",
-      "latestNav": "154.350000",
-      "navDate": "20260211"
+      "latestNav": "154.720000",
+      "navDate": "20260212"
     },
     {
       "fundCode": "BLKAEFDD",
@@ -912,8 +912,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "88.760000",
-      "navDate": "20260211"
+      "latestNav": "88.070000",
+      "navDate": "20260212"
     },
     {
       "fundCode": "BLKAEMDU",
@@ -923,8 +923,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "60.960000",
-      "navDate": "20260211"
+      "latestNav": "61.340000",
+      "navDate": "20260212"
     },
     {
       "fundCode": "BLKAEMIU",
@@ -934,8 +934,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "15.260000",
-      "navDate": "20260211"
+      "latestNav": "15.350000",
+      "navDate": "20260212"
     },
     {
       "fundCode": "DIOD7",
