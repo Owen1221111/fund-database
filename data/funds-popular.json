@@ -1,7 +1,29 @@
 {
-  "lastUpdate": "2026-02-18T13:55:08.699368+08:00",
+  "lastUpdate": "2026-02-18T22:41:14.208533+08:00",
   "count": 100,
   "funds": [
+    {
+      "fundCode": "DIM03",
+      "fundName": "元大美元貨幣市場基金-新台幣",
+      "isinCode": "T05A1A",
+      "company": "元大投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "11.791",
+      "navDate": "20260213"
+    },
+    {
+      "fundCode": "DIM04",
+      "fundName": "元大美元貨幣市場基金-美元",
+      "isinCode": "T05A1B",
+      "company": "元大投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "USD",
+      "latestNav": "12.458",
+      "navDate": "20260213"
+    },
     {
       "fundCode": "00674R",
       "fundName": "元大標普油金傘型期貨信託基金之元大標普高盛黃金ER單日反向1倍指數股票型期貨信託基金",
@@ -33,28 +55,6 @@
       "region": "境外",
       "currency": "TWD",
       "latestNav": "50.880000",
-      "navDate": ""
-    },
-    {
-      "fundCode": "00642U",
-      "fundName": "元大標普高盛原油ER指數股票型期貨信託基金",
-      "isinCode": "",
-      "company": "",
-      "type": "期信基金",
-      "region": "境外",
-      "currency": "TWD",
-      "latestNav": "15.900000",
-      "navDate": ""
-    },
-    {
-      "fundCode": "00673R",
-      "fundName": "元大標普油金傘型期貨信託基金之元大標普高盛原油ER單日反向1倍指數股票型期貨信託基金",
-      "isinCode": "",
-      "company": "",
-      "type": "期信基金",
-      "region": "境外",
-      "currency": "TWD",
-      "latestNav": "26.910000",
       "navDate": ""
     },
     {
@@ -111,6 +111,39 @@
       "currency": "JPY",
       "latestNav": "10029.178000",
       "navDate": "20260212"
+    },
+    {
+      "fundCode": "DIM01",
+      "fundName": "兆豐人民幣貨幣市場基金",
+      "isinCode": "T0118Y",
+      "company": "兆豐投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "CNY",
+      "latestNav": "13.6136",
+      "navDate": "20260213"
+    },
+    {
+      "fundCode": "DIM03",
+      "fundName": "兆豐美元貨幣市場基金(新台幣)",
+      "isinCode": "T0123A",
+      "company": "兆豐投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "12.2587",
+      "navDate": "20260213"
+    },
+    {
+      "fundCode": "DIM04",
+      "fundName": "兆豐美元貨幣市場基金(美元)",
+      "isinCode": "T0123B",
+      "company": "兆豐投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "USD",
+      "latestNav": "12.5283",
+      "navDate": "20260213"
     },
     {
       "fundCode": "0125",
@@ -1067,39 +1100,6 @@
       "region": "境外",
       "currency": "USD",
       "latestNav": "9.967400",
-      "navDate": "20260211"
-    },
-    {
-      "fundCode": "000EPCEUEI",
-      "fundName": "天利(盧森堡)-泛歐洲股票基金(歐元)",
-      "isinCode": "LU0061476155",
-      "company": "天利管理(盧森堡)有限公司/THREADNEEDLE MANAGEMENT LUXEMBOURG S.A.",
-      "type": "境外基金",
-      "region": "境外",
-      "currency": "EUR",
-      "latestNav": "116.553800",
-      "navDate": "20260211"
-    },
-    {
-      "fundCode": "000EPCEUEIU",
-      "fundName": "天利(盧森堡)-泛歐洲股票基金(美元)",
-      "isinCode": "LU0757432116",
-      "company": "天利管理(盧森堡)有限公司/THREADNEEDLE MANAGEMENT LUXEMBOURG S.A.",
-      "type": "境外基金",
-      "region": "境外",
-      "currency": "USD",
-      "latestNav": "138.226900",
-      "navDate": "20260211"
-    },
-    {
-      "fundCode": "000EPCGSBI",
-      "fundName": "天利(盧森堡)-全球實質回報基金(美元)",
-      "isinCode": "LU0061474705",
-      "company": "天利管理(盧森堡)有限公司/THREADNEEDLE MANAGEMENT LUXEMBOURG S.A.",
-      "type": "境外基金",
-      "region": "境外",
-      "currency": "USD",
-      "latestNav": "50.172500",
       "navDate": "20260211"
     }
   ]

@@ -1,7 +1,62 @@
 {
-  "lastUpdate": "2026-02-18T13:55:08.639143+08:00",
-  "count": 5809,
+  "lastUpdate": "2026-02-18T22:41:14.150409+08:00",
+  "count": 5814,
   "funds": [
+    {
+      "fundCode": "DIM01",
+      "fundName": "兆豐人民幣貨幣市場基金",
+      "isinCode": "T0118Y",
+      "company": "兆豐投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "CNY",
+      "latestNav": "13.6136",
+      "navDate": "20260213"
+    },
+    {
+      "fundCode": "DIM03",
+      "fundName": "兆豐美元貨幣市場基金(新台幣)",
+      "isinCode": "T0123A",
+      "company": "兆豐投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "12.2587",
+      "navDate": "20260213"
+    },
+    {
+      "fundCode": "DIM04",
+      "fundName": "兆豐美元貨幣市場基金(美元)",
+      "isinCode": "T0123B",
+      "company": "兆豐投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "USD",
+      "latestNav": "12.5283",
+      "navDate": "20260213"
+    },
+    {
+      "fundCode": "DIM03",
+      "fundName": "元大美元貨幣市場基金-新台幣",
+      "isinCode": "T05A1A",
+      "company": "元大投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "11.791",
+      "navDate": "20260213"
+    },
+    {
+      "fundCode": "DIM04",
+      "fundName": "元大美元貨幣市場基金-美元",
+      "isinCode": "T05A1B",
+      "company": "元大投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "USD",
+      "latestNav": "12.458",
+      "navDate": "20260213"
+    },
     {
       "fundCode": "000AMEEBEI",
       "fundName": "天利(盧森堡)-歐洲策略債券基金(歐元)",
