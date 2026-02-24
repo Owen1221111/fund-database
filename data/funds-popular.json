@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-23T22:42:45.873387+08:00",
+  "lastUpdate": "2026-02-24T12:18:50.783746+08:00",
   "count": 100,
   "funds": [
     {
@@ -905,6 +905,50 @@
       "navDate": "20260223"
     },
     {
+      "fundCode": "BLKABADE",
+      "fundName": "貝萊德歐元優質債券基金 D2 歐元",
+      "isinCode": "LU0297941469",
+      "company": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+      "type": "境外基金",
+      "region": "境外",
+      "currency": "EUR",
+      "latestNav": "30.150000",
+      "navDate": "20260220"
+    },
+    {
+      "fundCode": "BLKABBDD",
+      "fundName": "貝萊德歐洲價值型基金 D2 歐元",
+      "isinCode": "LU0329592454",
+      "company": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+      "type": "境外基金",
+      "region": "境外",
+      "currency": "EUR",
+      "latestNav": "154.430000",
+      "navDate": "20260220"
+    },
+    {
+      "fundCode": "BLKAEFDD",
+      "fundName": "貝萊德世界金融基金 D2 美元",
+      "isinCode": "LU0329593262",
+      "company": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+      "type": "境外基金",
+      "region": "境外",
+      "currency": "USD",
+      "latestNav": "86.900000",
+      "navDate": "20260220"
+    },
+    {
+      "fundCode": "BLKAEMDU",
+      "fundName": "貝萊德新興市場基金 D2 美元",
+      "isinCode": "LU0252970164",
+      "company": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+      "type": "境外基金",
+      "region": "境外",
+      "currency": "USD",
+      "latestNav": "60.760000",
+      "navDate": "20260220"
+    },
+    {
       "fundCode": "DIOD7",
       "fundName": "施羅德美國成長多重資產基金(新台幣)－A累積型",
       "isinCode": "T4237A",
@@ -1056,50 +1100,6 @@
       "region": "境內",
       "currency": "TWD",
       "latestNav": "12.52",
-      "navDate": "20260213"
-    },
-    {
-      "fundCode": "DIOF5",
-      "fundName": "安聯AI收益成長多重資產基金-HB類型(月配息)-新臺幣(避險)",
-      "isinCode": "T3640E",
-      "company": "安聯投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "11.32",
-      "navDate": "20260213"
-    },
-    {
-      "fundCode": "DIODD",
-      "fundName": "柏瑞日本多重資產基金-A類型",
-      "isinCode": "T2140A",
-      "company": "柏瑞投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "11.5018",
-      "navDate": "20260213"
-    },
-    {
-      "fundCode": "DIODE",
-      "fundName": "柏瑞日本多重資產基金-B類型",
-      "isinCode": "T2140B",
-      "company": "柏瑞投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "11.3113",
-      "navDate": "20260213"
-    },
-    {
-      "fundCode": "DIODF",
-      "fundName": "柏瑞日本多重資產基金-N類型",
-      "isinCode": "T2140C",
-      "company": "柏瑞投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "11.3115",
       "navDate": "20260213"
     }
   ]
