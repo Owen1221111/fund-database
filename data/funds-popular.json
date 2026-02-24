@@ -1,60 +1,60 @@
 {
-  "lastUpdate": "2026-02-24T13:53:06.657892+08:00",
+  "lastUpdate": "2026-02-24T22:45:48.818664+08:00",
   "count": 100,
   "funds": [
     {
-      "fundCode": "DDO27",
-      "fundName": "元大2001基金",
-      "isinCode": "T0567Y",
+      "fundCode": "DIE31",
+      "fundName": "元大全球航太與防衛科技ETF基金",
+      "isinCode": "00965",
       "company": "元大投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "295.84",
+      "latestNav": "26.23",
       "navDate": "20260223"
     },
     {
-      "fundCode": "DDO02",
-      "fundName": "元大多福基金",
-      "isinCode": "T0502Y",
+      "fundCode": "DIE32",
+      "fundName": "元大優息10年期以上美國政府債券ETF基金",
+      "isinCode": "00967B",
       "company": "元大投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "214.29",
+      "latestNav": "9.5041",
       "navDate": "20260223"
     },
     {
-      "fundCode": "DDM03",
-      "fundName": "元大得寶貨幣市場基金",
-      "isinCode": "T0571Y",
+      "fundCode": "DIE34",
+      "fundName": "元大零息超長期美國政府債券ETF基金",
+      "isinCode": "00969B",
       "company": "元大投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "12.7295",
+      "latestNav": "8.8012",
       "navDate": "20260223"
     },
     {
-      "fundCode": "DDO13",
-      "fundName": "元大新主流基金",
-      "isinCode": "T0513Y",
+      "fundCode": "DIE33",
+      "fundName": "元大優息10年期以上已開發市場投資級美元公司債券ETF基金",
+      "isinCode": "00968B",
       "company": "元大投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "118.1",
+      "latestNav": "9.5359",
       "navDate": "20260223"
     },
     {
-      "fundCode": "DDO06",
-      "fundName": "元大店頭基金",
-      "isinCode": "T0506Y",
+      "fundCode": "DIOD1",
+      "fundName": "元大全球航太與防衛科技ETF連結基金",
+      "isinCode": "T05C5Y",
       "company": "元大投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "33.69",
+      "latestNav": "12.1",
       "navDate": "20260223"
     },
     {
@@ -65,8 +65,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "10.5",
-      "navDate": "20260223"
+      "latestNav": "10.6",
+      "navDate": "20260224"
     },
     {
       "fundCode": "DDE13",
@@ -76,8 +76,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "13.15",
-      "navDate": "20260223"
+      "latestNav": "13.48",
+      "navDate": "20260224"
     },
     {
       "fundCode": "DDE14",
@@ -87,8 +87,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "12.46",
-      "navDate": "20260223"
+      "latestNav": "12.83",
+      "navDate": "20260224"
     },
     {
       "fundCode": "DIOC6",
@@ -98,8 +98,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "11.2417",
-      "navDate": "20260213"
+      "latestNav": "11.3566",
+      "navDate": "20260223"
     },
     {
       "fundCode": "DIOC7",
@@ -109,8 +109,19 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "11.2417",
-      "navDate": "20260213"
+      "latestNav": "11.3566",
+      "navDate": "20260223"
+    },
+    {
+      "fundCode": "DIE39",
+      "fundName": "國泰大和日本不動產收息ETF基金",
+      "isinCode": "009817",
+      "company": "國泰投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "10.17",
+      "navDate": "20260224"
     },
     {
       "fundCode": "DDO12",
@@ -120,8 +131,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "73.53",
-      "navDate": "20260223"
+      "latestNav": "76.05",
+      "navDate": "20260224"
     },
     {
       "fundCode": "DDO24",
@@ -132,7 +143,7 @@
       "region": "境內",
       "currency": "USD",
       "latestNav": "-",
-      "navDate": "20260223"
+      "navDate": "20260224"
     },
     {
       "fundCode": "DDO30",
@@ -142,8 +153,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "74.26",
-      "navDate": "20260223"
+      "latestNav": "76.82",
+      "navDate": "20260224"
     },
     {
       "fundCode": "DDO07",
@@ -153,18 +164,18 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "176",
-      "navDate": "20260223"
+      "latestNav": "181.84",
+      "navDate": "20260224"
     },
     {
-      "fundCode": "DDO01",
-      "fundName": "國泰國泰基金-新台幣A",
-      "isinCode": "T3701Y",
-      "company": "國泰投信",
+      "fundCode": "DIE18",
+      "fundName": "群益優選收益非投資等級債券ETF基金",
+      "isinCode": "00953B",
+      "company": "群益投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "118",
+      "latestNav": "9.6471",
       "navDate": "20260223"
     },
     {
@@ -175,8 +186,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "10.3025",
-      "navDate": "20260213"
+      "latestNav": "10.3816",
+      "navDate": "20260223"
     },
     {
       "fundCode": "DIOP3",
@@ -186,8 +197,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "10.0352",
-      "navDate": "20260213"
+      "latestNav": "10.1123",
+      "navDate": "20260223"
     },
     {
       "fundCode": "DIOP4",
@@ -197,8 +208,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "10.3026",
-      "navDate": "20260213"
+      "latestNav": "10.3818",
+      "navDate": "20260223"
     },
     {
       "fundCode": "DIOP5",
@@ -208,19 +219,19 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "10.0353",
-      "navDate": "20260213"
+      "latestNav": "10.1124",
+      "navDate": "20260223"
     },
     {
-      "fundCode": "DIOP6",
-      "fundName": "群益印美戰略多重資產基金A(累積型-美元)",
-      "isinCode": "T1679E",
-      "company": "群益投信",
+      "fundCode": "DIE04",
+      "fundName": "統一全球15年以上BBB優選ESG公司債ETF基金",
+      "isinCode": "00966B",
+      "company": "統一投信",
       "type": "境內基金",
       "region": "境內",
-      "currency": "USD",
-      "latestNav": "9.8293",
-      "navDate": "20260213"
+      "currency": "TWD",
+      "latestNav": "14.3228",
+      "navDate": "20260223"
     },
     {
       "fundCode": "DDO26",
@@ -230,8 +241,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "12.5538",
-      "navDate": "20260223"
+      "latestNav": "12.6365",
+      "navDate": "20260224"
     },
     {
       "fundCode": "DDO27",
@@ -241,8 +252,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "12.2019",
-      "navDate": "20260223"
+      "latestNav": "12.2824",
+      "navDate": "20260224"
     },
     {
       "fundCode": "DDA01",
@@ -252,29 +263,18 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "18.9",
-      "navDate": "20260223"
+      "latestNav": "19.4",
+      "navDate": "20260224"
     },
     {
-      "fundCode": "DDO01",
-      "fundName": "統一全天候基金-A類型",
-      "isinCode": "T0902Y",
+      "fundCode": "DIE05",
+      "fundName": "統一美國50ETF 基金",
+      "isinCode": "009811",
       "company": "統一投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "569.39",
-      "navDate": "20260223"
-    },
-    {
-      "fundCode": "DDO18",
-      "fundName": "統一全天候基金-I類型",
-      "isinCode": "T0902A",
-      "company": "統一投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "595.7",
+      "latestNav": "11.34",
       "navDate": "20260223"
     },
     {
@@ -285,8 +285,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "12.21",
-      "navDate": "20260223"
+      "latestNav": "12.69",
+      "navDate": "20260224"
     },
     {
       "fundCode": "DIO09",
@@ -296,8 +296,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "52.69",
-      "navDate": "20260213"
+      "latestNav": "54.51",
+      "navDate": "20260223"
     },
     {
       "fundCode": "DIO42",
@@ -307,8 +307,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "USD",
-      "latestNav": "33.24",
-      "navDate": "20260213"
+      "latestNav": "34.45",
+      "navDate": "20260223"
     },
     {
       "fundCode": "DIO10",
@@ -318,8 +318,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "55.89",
-      "navDate": "20260213"
+      "latestNav": "57.95",
+      "navDate": "20260223"
     },
     {
       "fundCode": "DIO01",
@@ -329,8 +329,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "15.2204",
-      "navDate": "20260213"
+      "latestNav": "15.222",
+      "navDate": "20260223"
     },
     {
       "fundCode": "DDO36",
@@ -340,63 +340,74 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "26.29",
+      "latestNav": "27.11",
+      "navDate": "20260224"
+    },
+    {
+      "fundCode": "DIOFU",
+      "fundName": "野村全球科技多重資產基金-累積類型新臺幣",
+      "isinCode": "T32X1A",
+      "company": "野村投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "12.1625",
       "navDate": "20260223"
     },
     {
-      "fundCode": "DIOGS",
-      "fundName": "野村全天候環球債券基金-累積類型新臺幣計價",
-      "isinCode": "T32Z9A",
+      "fundCode": "DIOFV",
+      "fundName": "野村全球科技多重資產基金-月配類型新臺幣",
+      "isinCode": "T32X1B",
       "company": "野村投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "10.1919",
-      "navDate": "20260213"
+      "latestNav": "11.0305",
+      "navDate": "20260223"
     },
     {
-      "fundCode": "DIOGT",
-      "fundName": "野村全天候環球債券基金-月配類型新臺幣計價",
-      "isinCode": "T32Z9B",
+      "fundCode": "DIOFW",
+      "fundName": "野村全球科技多重資產基金-累積N類型新臺幣",
+      "isinCode": "T32X1C",
       "company": "野村投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "9.7385",
-      "navDate": "20260213"
+      "latestNav": "12.1662",
+      "navDate": "20260223"
     },
     {
-      "fundCode": "DIOGU",
-      "fundName": "野村全天候環球債券基金-累積N類型新臺幣計價",
-      "isinCode": "T32Z9C",
+      "fundCode": "DIOFX",
+      "fundName": "野村全球科技多重資產基金-月配N類型新臺幣",
+      "isinCode": "T32X1D",
       "company": "野村投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "10.1944",
-      "navDate": "20260213"
+      "latestNav": "11.0304",
+      "navDate": "20260223"
     },
     {
-      "fundCode": "DIOGV",
-      "fundName": "野村全天候環球債券基金-月配N類型新臺幣計價",
-      "isinCode": "T32Z9D",
+      "fundCode": "DIOFY",
+      "fundName": "野村全球科技多重資產基金-S類型新臺幣",
+      "isinCode": "T32X1S",
       "company": "野村投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "9.741",
-      "navDate": "20260213"
+      "latestNav": "9.6826",
+      "navDate": "20260223"
     },
     {
-      "fundCode": "DIOGW",
-      "fundName": "野村全天候環球債券基金-S類型新臺幣計價",
-      "isinCode": "T32Z9L",
-      "company": "野村投信",
+      "fundCode": "DIE02",
+      "fundName": "兆豐美國企業優選投資級公司債ETF基金",
+      "isinCode": "00957B",
+      "company": "兆豐投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "10",
-      "navDate": "20260213"
+      "latestNav": "13.9417",
+      "navDate": "20260223"
     },
     {
       "fundCode": "DIOB2",
@@ -406,8 +417,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "11.24",
-      "navDate": "20260213"
+      "latestNav": "11.27",
+      "navDate": "20260223"
     },
     {
       "fundCode": "DIOB3",
@@ -417,8 +428,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "10.53",
-      "navDate": "20260213"
+      "latestNav": "10.56",
+      "navDate": "20260223"
     },
     {
       "fundCode": "DIOB4",
@@ -428,8 +439,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "10.53",
-      "navDate": "20260213"
+      "latestNav": "10.56",
+      "navDate": "20260223"
     },
     {
       "fundCode": "DIOB5",
@@ -439,128 +450,128 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "USD",
-      "latestNav": "11.37",
-      "navDate": "20260213"
+      "latestNav": "11.41",
+      "navDate": "20260223"
     },
     {
-      "fundCode": "DIOB6",
-      "fundName": "兆豐ESG台美永續雙盈多重資產基金(美元)-配息型",
-      "isinCode": "T0138E",
-      "company": "兆豐投信",
+      "fundCode": "DIOI3",
+      "fundName": "台新美日台半導體基金-新臺幣A",
+      "isinCode": "T4775A",
+      "company": "台新投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "14.95",
+      "navDate": "20260223"
+    },
+    {
+      "fundCode": "DIOI4",
+      "fundName": "台新美日台半導體基金-新臺幣NA(後收)",
+      "isinCode": "T4775B",
+      "company": "台新投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "14.95",
+      "navDate": "20260223"
+    },
+    {
+      "fundCode": "DIOI5",
+      "fundName": "台新美日台半導體基金-新臺幣I(法人)",
+      "isinCode": "T4775C",
+      "company": "台新投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "11.2",
+      "navDate": "20260223"
+    },
+    {
+      "fundCode": "DIOI6",
+      "fundName": "台新美日台半導體基金-美元A",
+      "isinCode": "T4775D",
+      "company": "台新投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "USD",
-      "latestNav": "10.67",
-      "navDate": "20260213"
-    },
-    {
-      "fundCode": "DDE03",
-      "fundName": "台新臺灣AI優息動能ETF基金",
-      "isinCode": "00962",
-      "company": "台新投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "11.27",
+      "latestNav": "15.2696",
       "navDate": "20260223"
     },
     {
-      "fundCode": "DDA01",
-      "fundName": "台新臺灣優勢成長主動式ETF基金",
-      "isinCode": "00987A",
+      "fundCode": "DIOI7",
+      "fundName": "台新美日台半導體基金-美元NA(後收)",
+      "isinCode": "T4775E",
       "company": "台新投信",
       "type": "境內基金",
       "region": "境內",
-      "currency": "TWD",
-      "latestNav": "10.86",
+      "currency": "USD",
+      "latestNav": "15.2562",
       "navDate": "20260223"
     },
     {
-      "fundCode": "DDOY2",
-      "fundName": "新光台灣富貴基金",
-      "isinCode": "T1411Y",
-      "company": "台新投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "116.95",
-      "navDate": "20260223"
-    },
-    {
-      "fundCode": "DDOZ2",
-      "fundName": "新光台灣富貴基金-TISA",
-      "isinCode": "T1411A",
-      "company": "台新投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "116.95",
-      "navDate": "20260223"
-    },
-    {
-      "fundCode": "DDOY3",
-      "fundName": "新光大三通基金",
-      "isinCode": "T1408Y",
-      "company": "台新投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "95.34",
-      "navDate": "20260223"
-    },
-    {
-      "fundCode": "DDA01",
-      "fundName": "中國信託台灣卓越成長主動式ETF基金",
-      "isinCode": "00995A",
+      "fundCode": "DIE25",
+      "fundName": "中國信託亞太高股息ETF基金",
+      "isinCode": "00964",
       "company": "中國信託投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "10.96",
+      "latestNav": "13.82",
       "navDate": "20260223"
     },
     {
-      "fundCode": "DDO16",
-      "fundName": "中國信託台灣活力基金",
-      "isinCode": "T2620Y",
+      "fundCode": "DIE24",
+      "fundName": "中國信託全球高股息ETF基金",
+      "isinCode": "00963",
       "company": "中國信託投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "39.35",
+      "latestNav": "12.46",
       "navDate": "20260223"
     },
     {
-      "fundCode": "DDM02",
-      "fundName": "中國信託華盈貨幣市場基金",
-      "isinCode": "T2612Y",
+      "fundCode": "DIE27",
+      "fundName": "中國信託NASDAQ 100 ETF基金",
+      "isinCode": "009800",
       "company": "中國信託投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "11.6739",
+      "latestNav": "10.81",
       "navDate": "20260223"
     },
     {
-      "fundCode": "DDE01",
-      "fundName": "中國信託臺灣ESG永續關鍵半導體ETF基金",
-      "isinCode": "00891",
+      "fundCode": "DIE26",
+      "fundName": "中國信託美國創新科技ETF基金",
+      "isinCode": "009801",
       "company": "中國信託投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "24.61",
+      "latestNav": "10.42",
       "navDate": "20260223"
     },
     {
-      "fundCode": "DDE02",
-      "fundName": "中國信託特選小資高價30ETF基金",
-      "isinCode": "00894",
+      "fundCode": "DIOA2",
+      "fundName": "中國信託美國聚焦成長基金-台幣A",
+      "isinCode": "T2628A",
       "company": "中國信託投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "32.33",
+      "latestNav": "10.06",
+      "navDate": "20260223"
+    },
+    {
+      "fundCode": "DIE17",
+      "fundName": "凱基全球10年期以上美元A級公司債券ETF基金",
+      "isinCode": "00950B",
+      "company": "凱基投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "14.4658",
       "navDate": "20260223"
     },
     {
@@ -571,7 +582,29 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "12.62",
+      "latestNav": "12.96",
+      "navDate": "20260224"
+    },
+    {
+      "fundCode": "DIE18",
+      "fundName": "凱基美國Top股債平衡ETF基金",
+      "isinCode": "00980T",
+      "company": "凱基投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "10.51",
+      "navDate": "20260223"
+    },
+    {
+      "fundCode": "DIE19",
+      "fundName": "凱基雙核收息債股平衡ETF基金",
+      "isinCode": "00981T",
+      "company": "凱基投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "11.36",
       "navDate": "20260223"
     },
     {
@@ -582,40 +615,18 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "10.8",
-      "navDate": "20260223"
+      "latestNav": "11.15",
+      "navDate": "20260224"
     },
     {
-      "fundCode": "DDO01",
-      "fundName": "凱基開創基金",
-      "isinCode": "T4101Y",
-      "company": "凱基投信",
+      "fundCode": "DIE09",
+      "fundName": "永豐15年期以上ESG投資等級美元銀行債ETF基金",
+      "isinCode": "00958B",
+      "company": "永豐投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "131.78",
-      "navDate": "20260223"
-    },
-    {
-      "fundCode": "DDM01",
-      "fundName": "凱基凱旋貨幣市場基金",
-      "isinCode": "T4102Y",
-      "company": "凱基投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "12.267",
-      "navDate": "20260223"
-    },
-    {
-      "fundCode": "DDO19",
-      "fundName": "凱基台灣精五門基金",
-      "isinCode": "T4112Y",
-      "company": "凱基投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "118.52",
+      "latestNav": "9.6771",
       "navDate": "20260223"
     },
     {
@@ -626,8 +637,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "10.2965",
-      "navDate": "20260213"
+      "latestNav": "10.2963",
+      "navDate": "20260223"
     },
     {
       "fundCode": "DIOB6",
@@ -637,8 +648,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "9.8996",
-      "navDate": "20260213"
+      "latestNav": "9.8995",
+      "navDate": "20260223"
     },
     {
       "fundCode": "DIOB7",
@@ -648,8 +659,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "USD",
-      "latestNav": "10.614",
-      "navDate": "20260213"
+      "latestNav": "10.6328",
+      "navDate": "20260223"
     },
     {
       "fundCode": "DIOB8",
@@ -659,41 +670,19 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "USD",
-      "latestNav": "10.1871",
-      "navDate": "20260213"
-    },
-    {
-      "fundCode": "DDO05",
-      "fundName": "永豐中小基金-A類型",
-      "isinCode": "T2506Y",
-      "company": "永豐投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "208.74",
+      "latestNav": "10.2051",
       "navDate": "20260223"
     },
     {
-      "fundCode": "DIOC1",
-      "fundName": "第一金量化日本基金-新臺幣",
-      "isinCode": "T0366A",
+      "fundCode": "DIE07",
+      "fundName": "第一金美元優選收益非投資等級債券ETF基金",
+      "isinCode": "00981B",
       "company": "第一金投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "12.53",
-      "navDate": "20260213"
-    },
-    {
-      "fundCode": "DIOC2",
-      "fundName": "第一金量化日本基金-日圓",
-      "isinCode": "T0366B",
-      "company": "第一金投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "JPY",
-      "latestNav": "132.32",
-      "navDate": "20260213"
+      "latestNav": "9.2984",
+      "navDate": "20260223"
     },
     {
       "fundCode": "DDA01",
@@ -703,8 +692,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "11.32",
-      "navDate": "20260223"
+      "latestNav": "11.7",
+      "navDate": "20260224"
     },
     {
       "fundCode": "DDM01",
@@ -714,8 +703,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "188.835",
-      "navDate": "20260223"
+      "latestNav": "188.842",
+      "navDate": "20260224"
     },
     {
       "fundCode": "DIO11",
@@ -725,63 +714,74 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "61.42",
-      "navDate": "20260213"
-    },
-    {
-      "fundCode": "DDO01",
-      "fundName": "合庫台灣基金－A類（累積型）台幣",
-      "isinCode": "T4801Y",
-      "company": "合庫投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "51.91",
+      "latestNav": "61.18",
       "navDate": "20260223"
     },
     {
-      "fundCode": "DDO03",
-      "fundName": "合庫台灣基金－B類（分配型）台幣",
-      "isinCode": "T4801A",
-      "company": "合庫投信",
+      "fundCode": "DIOB9",
+      "fundName": "第一金全球大趨勢基金-人民幣",
+      "isinCode": "T0331A",
+      "company": "第一金投信",
       "type": "境內基金",
       "region": "境內",
-      "currency": "TWD",
-      "latestNav": "20.7",
+      "currency": "CNY",
+      "latestNav": "12.59",
       "navDate": "20260223"
     },
     {
-      "fundCode": "DIO05",
-      "fundName": "合庫全球非投資等級債券基金A類型(新台幣)",
-      "isinCode": "T4804A",
+      "fundCode": "DIOJ1",
+      "fundName": "合庫入息優化多重資產基金-A類(累積型)台幣",
+      "isinCode": "T4827A",
       "company": "合庫投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "12.4754",
-      "navDate": "20260213"
+      "latestNav": "12.44",
+      "navDate": "20260223"
     },
     {
-      "fundCode": "DIO06",
-      "fundName": "合庫全球非投資等級債券基金B類型(新台幣)",
-      "isinCode": "T4804B",
+      "fundCode": "DIOJ2",
+      "fundName": "合庫入息優化多重資產基金-B類(月配型)台幣",
+      "isinCode": "T4827B",
       "company": "合庫投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "6.2774",
-      "navDate": "20260213"
+      "latestNav": "11.6",
+      "navDate": "20260223"
     },
     {
-      "fundCode": "DIO12",
-      "fundName": "合庫全球非投資等級債券基金A類型(美元)",
-      "isinCode": "T4804C",
+      "fundCode": "DIOJ3",
+      "fundName": "合庫入息優化多重資產基金-NB類(月配型)台幣",
+      "isinCode": "T4827C",
+      "company": "合庫投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "11.6",
+      "navDate": "20260223"
+    },
+    {
+      "fundCode": "DIOJ4",
+      "fundName": "合庫入息優化多重資產基金-A類(累積型)美金",
+      "isinCode": "T4827D",
       "company": "合庫投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "USD",
-      "latestNav": "13.3356",
-      "navDate": "20260213"
+      "latestNav": "13.13",
+      "navDate": "20260223"
+    },
+    {
+      "fundCode": "DIOJ5",
+      "fundName": "合庫入息優化多重資產基金-B類(月配型)美金",
+      "isinCode": "T4827E",
+      "company": "合庫投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "USD",
+      "latestNav": "12.24",
+      "navDate": "20260223"
     },
     {
       "fundCode": "DDEB3",
@@ -791,7 +791,29 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "10.27",
+      "latestNav": "10.41",
+      "navDate": "20260224"
+    },
+    {
+      "fundCode": "DIEB2",
+      "fundName": "富蘭克林華美20年期以上BBB投資級美元公司債ETF基金",
+      "isinCode": "00982B",
+      "company": "富蘭克林華美投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "10.1806",
+      "navDate": "20260223"
+    },
+    {
+      "fundCode": "DIEB3",
+      "fundName": "富蘭克林華美10年期以上投資級美元金融債ETF基金",
+      "isinCode": "00986B",
+      "company": "富蘭克林華美投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "10.2959",
       "navDate": "20260223"
     },
     {
@@ -802,8 +824,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "190.61",
-      "navDate": "20260223"
+      "latestNav": "196.57",
+      "navDate": "20260224"
     },
     {
       "fundCode": "DDO04",
@@ -813,30 +835,30 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "15.3",
+      "latestNav": "15.78",
+      "navDate": "20260224"
+    },
+    {
+      "fundCode": "DIA01",
+      "fundName": "聯博投資等級債入息主動式ETF基金",
+      "isinCode": "00980D",
+      "company": "聯博投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "20.97",
       "navDate": "20260223"
     },
     {
-      "fundCode": "DFO01",
-      "fundName": "富蘭克林華美全球債券組合基金-累計型",
-      "isinCode": "T4503A",
-      "company": "富蘭克林華美投信",
+      "fundCode": "DIA02",
+      "fundName": "聯博優選全球非投資等級債券主動式ETF基金",
+      "isinCode": "00984D",
+      "company": "聯博投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "14.0051",
-      "navDate": "20260213"
-    },
-    {
-      "fundCode": "DFO03",
-      "fundName": "富蘭克林華美全球債券組合基金-分配型",
-      "isinCode": "T4503B",
-      "company": "富蘭克林華美投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "6.5348",
-      "navDate": "20260213"
+      "latestNav": "9.9507",
+      "navDate": "20260223"
     },
     {
       "fundCode": "DIO06",
@@ -846,8 +868,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "11.2",
-      "navDate": "20260213"
+      "latestNav": "11.22",
+      "navDate": "20260223"
     },
     {
       "fundCode": "DIO07",
@@ -857,8 +879,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "5.41",
-      "navDate": "20260213"
+      "latestNav": "5.42",
+      "navDate": "20260223"
     },
     {
       "fundCode": "DIO19",
@@ -868,85 +890,63 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "CNY",
-      "latestNav": "9.1",
-      "navDate": "20260213"
+      "latestNav": "9.11",
+      "navDate": "20260223"
     },
     {
-      "fundCode": "DIO17",
-      "fundName": "聯博收益傘型基金之聯博債券收益組合基金-AA類型(美元)",
-      "isinCode": "T1810D",
-      "company": "聯博投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "USD",
-      "latestNav": "9.4",
-      "navDate": "20260213"
-    },
-    {
-      "fundCode": "DIO18",
-      "fundName": "聯博收益傘型基金之聯博債券收益組合基金-A2類型(人民幣)",
-      "isinCode": "T1810E",
-      "company": "聯博投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "CNY",
-      "latestNav": "20.21",
-      "navDate": "20260213"
-    },
-    {
-      "fundCode": "DDO01",
-      "fundName": "貝萊德寶利基金",
-      "isinCode": "T3101Y",
+      "fundCode": "DIO34",
+      "fundName": "貝萊德 iShares 安碩 0-3 月美國國庫證券指數基金-A累積類型 (新台幣)",
+      "isinCode": "T3121A",
       "company": "貝萊德投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "108.16",
+      "latestNav": "9.9486",
       "navDate": "20260223"
     },
     {
-      "fundCode": "BLKABADE",
-      "fundName": "貝萊德歐元優質債券基金 D2 歐元",
-      "isinCode": "LU0297941469",
-      "company": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
-      "type": "境外基金",
-      "region": "境外",
-      "currency": "EUR",
-      "latestNav": "30.150000",
-      "navDate": "20260220"
+      "fundCode": "DIO35",
+      "fundName": "貝萊德 iShares 安碩 0-3 月美國國庫證券指數基金-A月配類型 (新台幣)",
+      "isinCode": "T3121B",
+      "company": "貝萊德投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "9.6927",
+      "navDate": "20260223"
     },
     {
-      "fundCode": "BLKABBDD",
-      "fundName": "貝萊德歐洲價值型基金 D2 歐元",
-      "isinCode": "LU0329592454",
-      "company": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
-      "type": "境外基金",
-      "region": "境外",
-      "currency": "EUR",
-      "latestNav": "154.430000",
-      "navDate": "20260220"
-    },
-    {
-      "fundCode": "BLKAEFDD",
-      "fundName": "貝萊德世界金融基金 D2 美元",
-      "isinCode": "LU0329593262",
-      "company": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
-      "type": "境外基金",
-      "region": "境外",
+      "fundCode": "DIO36",
+      "fundName": "貝萊德 iShares 安碩 0-3 月美國國庫證券指數基金-A累積類型 (美元  )",
+      "isinCode": "T3121C",
+      "company": "貝萊德投信",
+      "type": "境內基金",
+      "region": "境內",
       "currency": "USD",
-      "latestNav": "86.900000",
-      "navDate": "20260220"
+      "latestNav": "10.3644",
+      "navDate": "20260223"
     },
     {
-      "fundCode": "BLKAEMDU",
-      "fundName": "貝萊德新興市場基金 D2 美元",
-      "isinCode": "LU0252970164",
-      "company": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
-      "type": "境外基金",
-      "region": "境外",
+      "fundCode": "DIO37",
+      "fundName": "貝萊德 iShares 安碩 0-3 月美國國庫證券指數基金-A月配類型 (美元  )",
+      "isinCode": "T3121D",
+      "company": "貝萊德投信",
+      "type": "境內基金",
+      "region": "境內",
       "currency": "USD",
-      "latestNav": "60.760000",
-      "navDate": "20260220"
+      "latestNav": "10.1026",
+      "navDate": "20260223"
+    },
+    {
+      "fundCode": "DIE01",
+      "fundName": "貝萊德iShares安碩標普500卓越50 ETF基金",
+      "isinCode": "009813",
+      "company": "貝萊德投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "10.17",
+      "navDate": "20260223"
     },
     {
       "fundCode": "DIOD7",
@@ -956,8 +956,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "11",
-      "navDate": "20260213"
+      "latestNav": "10.99",
+      "navDate": "20260223"
     },
     {
       "fundCode": "DIOD8",
@@ -968,7 +968,7 @@
       "region": "境內",
       "currency": "TWD",
       "latestNav": "10",
-      "navDate": "20260213"
+      "navDate": "20260223"
     },
     {
       "fundCode": "DIOD9",
@@ -979,7 +979,7 @@
       "region": "境內",
       "currency": "USD",
       "latestNav": "11.43",
-      "navDate": "20260213"
+      "navDate": "20260223"
     },
     {
       "fundCode": "DIOE0",
@@ -989,19 +989,19 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "USD",
-      "latestNav": "11.86",
-      "navDate": "20260213"
+      "latestNav": "11.87",
+      "navDate": "20260223"
     },
     {
-      "fundCode": "DIOF1",
-      "fundName": "施羅德智選優質美元債券基金(新台幣)－A累積型",
-      "isinCode": "T4239A",
+      "fundCode": "DIOE2",
+      "fundName": "施羅德台美雙利多重資產基金(新台幣)－A累積型",
+      "isinCode": "T4238A",
       "company": "施羅德投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "10.3601",
-      "navDate": "20260213"
+      "latestNav": "14.69",
+      "navDate": "20260223"
     },
     {
       "fundCode": "DDE02",
@@ -1011,8 +1011,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "227.93",
-      "navDate": "20260223"
+      "latestNav": "234.72",
+      "navDate": "20260224"
     },
     {
       "fundCode": "DIO73",
@@ -1022,8 +1022,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "10.41",
-      "navDate": "20260213"
+      "latestNav": "10.37",
+      "navDate": "20260223"
     },
     {
       "fundCode": "DIO76",
@@ -1033,8 +1033,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "9.28",
-      "navDate": "20260213"
+      "latestNav": "9.25",
+      "navDate": "20260223"
     },
     {
       "fundCode": "DIO79",
@@ -1044,8 +1044,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "9.28",
-      "navDate": "20260213"
+      "latestNav": "9.25",
+      "navDate": "20260223"
     },
     {
       "fundCode": "DIO74",
@@ -1055,8 +1055,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "USD",
-      "latestNav": "10.79",
-      "navDate": "20260213"
+      "latestNav": "10.75",
+      "navDate": "20260223"
     },
     {
       "fundCode": "DIOF1",
@@ -1066,8 +1066,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "12.92",
-      "navDate": "20260213"
+      "latestNav": "12.95",
+      "navDate": "20260223"
     },
     {
       "fundCode": "DIOF2",
@@ -1077,8 +1077,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "11.67",
-      "navDate": "20260213"
+      "latestNav": "11.69",
+      "navDate": "20260223"
     },
     {
       "fundCode": "DIOF3",
@@ -1088,8 +1088,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "11.67",
-      "navDate": "20260213"
+      "latestNav": "11.69",
+      "navDate": "20260223"
     },
     {
       "fundCode": "DIOF4",
@@ -1099,8 +1099,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "12.52",
-      "navDate": "20260213"
+      "latestNav": "12.56",
+      "navDate": "20260223"
     }
   ]
 }
