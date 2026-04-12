@@ -1,16 +1,16 @@
 {
-  "lastUpdate": "2026-04-11T22:34:15.615234+08:00",
+  "lastUpdate": "2026-04-12T12:46:42.054470+08:00",
   "count": 100,
   "funds": [
     {
-      "fundCode": "00673R",
-      "fundName": "元大標普油金傘型期貨信託基金之元大標普高盛原油ER單日反向1倍指數股票型期貨信託基金",
+      "fundCode": "00674R",
+      "fundName": "元大標普油金傘型期貨信託基金之元大標普高盛黃金ER單日反向1倍指數股票型期貨信託基金",
       "isinCode": "",
       "company": "",
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "14.820000",
+      "latestNav": "5.520000",
       "navDate": ""
     },
     {
@@ -21,7 +21,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "21.430000",
+      "latestNav": "21.150000",
       "navDate": ""
     },
     {
@@ -32,7 +32,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "54.230000",
+      "latestNav": "53.600000",
       "navDate": ""
     },
     {
@@ -43,18 +43,18 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "25.580000",
+      "latestNav": "26.290000",
       "navDate": ""
     },
     {
-      "fundCode": "00674R",
-      "fundName": "元大標普油金傘型期貨信託基金之元大標普高盛黃金ER單日反向1倍指數股票型期貨信託基金",
+      "fundCode": "00673R",
+      "fundName": "元大標普油金傘型期貨信託基金之元大標普高盛原油ER單日反向1倍指數股票型期貨信託基金",
       "isinCode": "",
       "company": "",
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "4.880000",
+      "latestNav": "14.540000",
       "navDate": ""
     },
     {

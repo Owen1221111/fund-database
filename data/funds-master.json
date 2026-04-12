@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-11T22:34:15.551072+08:00",
+  "lastUpdate": "2026-04-12T12:46:41.989592+08:00",
   "count": 5883,
   "funds": [
     {
@@ -64551,14 +64551,14 @@
       "navDate": "20260409"
     },
     {
-      "fundCode": "00673R",
-      "fundName": "元大標普油金傘型期貨信託基金之元大標普高盛原油ER單日反向1倍指數股票型期貨信託基金",
+      "fundCode": "00674R",
+      "fundName": "元大標普油金傘型期貨信託基金之元大標普高盛黃金ER單日反向1倍指數股票型期貨信託基金",
       "isinCode": "",
       "company": "",
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "14.820000",
+      "latestNav": "5.520000",
       "navDate": ""
     },
     {
@@ -64569,7 +64569,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "23.160000",
+      "latestNav": "23.140000",
       "navDate": ""
     },
     {
@@ -64580,7 +64580,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "50.930000",
+      "latestNav": "53.410000",
       "navDate": ""
     },
     {
@@ -64591,7 +64591,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "31.940000",
+      "latestNav": "31.360000",
       "navDate": ""
     },
     {
@@ -64602,7 +64602,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "21.430000",
+      "latestNav": "21.150000",
       "navDate": ""
     },
     {
@@ -64613,7 +64613,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "54.230000",
+      "latestNav": "53.600000",
       "navDate": ""
     },
     {
@@ -64624,18 +64624,18 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "25.580000",
+      "latestNav": "26.290000",
       "navDate": ""
     },
     {
-      "fundCode": "00674R",
-      "fundName": "元大標普油金傘型期貨信託基金之元大標普高盛黃金ER單日反向1倍指數股票型期貨信託基金",
+      "fundCode": "00673R",
+      "fundName": "元大標普油金傘型期貨信託基金之元大標普高盛原油ER單日反向1倍指數股票型期貨信託基金",
       "isinCode": "",
       "company": "",
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "4.880000",
+      "latestNav": "14.540000",
       "navDate": ""
     },
     {
@@ -64646,7 +64646,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "20.620000",
+      "latestNav": "20.750000",
       "navDate": ""
     },
     {
@@ -64657,7 +64657,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "21.520000",
+      "latestNav": "21.800000",
       "navDate": ""
     },
     {
@@ -64668,7 +64668,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "15.350000",
+      "latestNav": "15.270000",
       "navDate": ""
     },
     {
@@ -64679,7 +64679,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "19.530000",
+      "latestNav": "19.480000",
       "navDate": ""
     },
     {
@@ -64690,7 +64690,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "32.180000",
+      "latestNav": "32.250000",
       "navDate": ""
     },
     {
@@ -64701,7 +64701,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "119.680000",
+      "latestNav": "116.880000",
       "navDate": ""
     },
     {
@@ -64712,7 +64712,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "69.280000",
+      "latestNav": "66.340000",
       "navDate": ""
     }
   ]
