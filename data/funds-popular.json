@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-04T23:59:02.707569+08:00",
+  "lastUpdate": "2026-05-05T13:14:24.354646+08:00",
   "count": 100,
   "funds": [
     {
@@ -949,59 +949,59 @@
       "navDate": "20260430"
     },
     {
-      "fundCode": "GB0007647489",
-      "fundName": "施羅德英國國債及定息基金",
-      "isinCode": "GB0007647489",
-      "company": "SCHRODER UNIT TRUSTS LIMITED",
-      "type": "境外基金",
-      "region": "境外",
-      "currency": "GBP",
-      "latestNav": "1.817000",
-      "navDate": "20260429"
+      "fundCode": "DIOD7",
+      "fundName": "施羅德美國成長多重資產基金(新台幣)－A累積型",
+      "isinCode": "T4237A",
+      "company": "施羅德投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "11.7",
+      "navDate": "20260430"
     },
     {
-      "fundCode": "GB0007648891",
-      "fundName": "施羅德歐洲小型公司基金",
-      "isinCode": "GB0007648891",
-      "company": "SCHRODER UNIT TRUSTS LIMITED",
-      "type": "境外基金",
-      "region": "境外",
-      "currency": "GBP",
-      "latestNav": "10.660000",
-      "navDate": "20260429"
+      "fundCode": "DIOD8",
+      "fundName": "施羅德美國成長多重資產基金(新台幣)－C累積型",
+      "isinCode": "T4237B",
+      "company": "施羅德投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "10",
+      "navDate": "20260430"
     },
     {
-      "fundCode": "GB0007649535",
-      "fundName": "施羅德英國小型公司基金",
-      "isinCode": "GB0007649535",
-      "company": "SCHRODER UNIT TRUSTS LIMITED",
-      "type": "境外基金",
-      "region": "境外",
-      "currency": "GBP",
-      "latestNav": "50.120000",
-      "navDate": "20260429"
+      "fundCode": "DIOD9",
+      "fundName": "施羅德美國成長多重資產基金(美元)－A累積型",
+      "isinCode": "T4237C",
+      "company": "施羅德投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "USD",
+      "latestNav": "12.1",
+      "navDate": "20260430"
     },
     {
-      "fundCode": "GB0007810152",
-      "fundName": "施羅德美國小型公司基金",
-      "isinCode": "GB0007810152",
-      "company": "SCHRODER UNIT TRUSTS LIMITED",
-      "type": "境外基金",
-      "region": "境外",
-      "currency": "GBP",
-      "latestNav": "49.920000",
-      "navDate": "20260429"
+      "fundCode": "DIOE0",
+      "fundName": "施羅德美國成長多重資產基金(美元)－C累積型",
+      "isinCode": "T4237D",
+      "company": "施羅德投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "USD",
+      "latestNav": "12.58",
+      "navDate": "20260430"
     },
     {
-      "fundCode": "GB0031440133",
-      "fundName": "施羅德英國超額報酬增值基金",
-      "isinCode": "GB0031440133",
-      "company": "SCHRODER UNIT TRUSTS LIMITED",
-      "type": "境外基金",
-      "region": "境外",
-      "currency": "GBP",
-      "latestNav": "2.540000",
-      "navDate": "20260429"
+      "fundCode": "DIOE2",
+      "fundName": "施羅德台美雙利多重資產基金(新台幣)－A累積型",
+      "isinCode": "T4238A",
+      "company": "施羅德投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "18.84",
+      "navDate": "20260430"
     },
     {
       "fundCode": "DDE02",
