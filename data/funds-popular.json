@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-19T00:45:04.245990+08:00",
+  "lastUpdate": "2026-05-19T14:06:50.316051+08:00",
   "count": 100,
   "funds": [
     {
@@ -278,58 +278,58 @@
       "navDate": "20260515"
     },
     {
-      "fundCode": "DIE01",
-      "fundName": "復華滬深300 A股基金",
-      "isinCode": "006207",
+      "fundCode": "DDA01",
+      "fundName": "復華台灣未來50主動式ETF基金",
+      "isinCode": "00991A",
       "company": "復華投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "33.56",
+      "latestNav": "17.6",
+      "navDate": "20260518"
+    },
+    {
+      "fundCode": "DIA01",
+      "fundName": "復華全球金融股票入息主動式ETF基金",
+      "isinCode": "00998A",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "15.82",
       "navDate": "20260515"
     },
     {
-      "fundCode": "DIE03",
-      "fundName": "復華恒生單日正向二倍基金",
-      "isinCode": "00650L",
+      "fundCode": "DIA02",
+      "fundName": "復華全球金融債券入息主動式ETF基金",
+      "isinCode": "00986D",
       "company": "復華投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "17.52",
+      "latestNav": "14.7",
       "navDate": "20260515"
     },
     {
-      "fundCode": "DIE04",
-      "fundName": "復華恒生單日反向一倍基金",
-      "isinCode": "00651R",
+      "fundCode": "DIO09",
+      "fundName": "復華全球大趨勢基金-新臺幣",
+      "isinCode": "T2252Y",
       "company": "復華投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "5.21",
+      "latestNav": "78.65",
       "navDate": "20260515"
     },
     {
-      "fundCode": "DIE18",
-      "fundName": "復華中國5G通信ETF基金",
-      "isinCode": "00877",
+      "fundCode": "DIO42",
+      "fundName": "復華全球大趨勢基金-美元",
+      "isinCode": "T2252A",
       "company": "復華投信",
       "type": "境內基金",
       "region": "境內",
-      "currency": "TWD",
-      "latestNav": "39",
-      "navDate": "20260515"
-    },
-    {
-      "fundCode": "DIE20",
-      "fundName": "復華日本護城河優勢龍頭企業ETF基金",
-      "isinCode": "00949",
-      "company": "復華投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "20.24",
+      "currency": "USD",
+      "latestNav": "49.56",
       "navDate": "20260515"
     },
     {
