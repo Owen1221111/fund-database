@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-06-02T03:18:15.767110+08:00",
-  "count": 10293,
+  "lastUpdate": "2026-06-02T14:40:45.295991+08:00",
+  "count": 10289,
   "funds": [
     {
       "fundCode": "DIE02",
@@ -2134,50 +2134,6 @@
       "region": "境內",
       "currency": "USD",
       "latestNav": "7.641",
-      "navDate": "20260529"
-    },
-    {
-      "fundCode": "DIOAK",
-      "fundName": "第一金全球Pet毛小孩基金-新臺幣",
-      "isinCode": "T0361A",
-      "company": "第一金投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "9.66",
-      "navDate": "20260529"
-    },
-    {
-      "fundCode": "DIOAL",
-      "fundName": "第一金全球Pet毛小孩基金-美元",
-      "isinCode": "T0361B",
-      "company": "第一金投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "USD",
-      "latestNav": "9.018",
-      "navDate": "20260529"
-    },
-    {
-      "fundCode": "DIOAM",
-      "fundName": "第一金全球Pet毛小孩基金-新臺幣-N",
-      "isinCode": "T0361C",
-      "company": "第一金投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "9.66",
-      "navDate": "20260529"
-    },
-    {
-      "fundCode": "DIOAN",
-      "fundName": "第一金全球Pet毛小孩基金-美元-N",
-      "isinCode": "T0361D",
-      "company": "第一金投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "USD",
-      "latestNav": "9.0184",
       "navDate": "20260529"
     },
     {
