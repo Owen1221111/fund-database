@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-04T02:19:58.708592+08:00",
+  "lastUpdate": "2026-06-04T14:41:24.870280+08:00",
   "count": 100,
   "funds": [
     {
@@ -58,58 +58,58 @@
       "navDate": "20260602"
     },
     {
-      "fundCode": "DIE06",
-      "fundName": "富邦上証180基金",
-      "isinCode": "006205",
+      "fundCode": "DDO48",
+      "fundName": "富邦台灣優質多重資產基金",
+      "isinCode": "T2075Y",
       "company": "富邦投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "41.37",
+      "latestNav": "12.28",
+      "navDate": "20260603"
+    },
+    {
+      "fundCode": "DDE13",
+      "fundName": "富邦台灣旗艦動能50ETF基金",
+      "isinCode": "009802",
+      "company": "富邦投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "21.1",
+      "navDate": "20260603"
+    },
+    {
+      "fundCode": "DDE14",
+      "fundName": "富邦台灣淨零轉型ESG50 ETF基金",
+      "isinCode": "009809",
+      "company": "富邦投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "17.7",
+      "navDate": "20260603"
+    },
+    {
+      "fundCode": "DIOC6",
+      "fundName": "富邦雙核心戰略多重資產基金-A類型(新台幣)",
+      "isinCode": "T10A1A",
+      "company": "富邦投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "12.7392",
       "navDate": "20260602"
     },
     {
-      "fundCode": "DIE01",
-      "fundName": "富邦中國ETF傘型基金之富邦上証180單日正向兩倍基金",
-      "isinCode": "00633L",
+      "fundCode": "DIOC7",
+      "fundName": "富邦雙核心戰略多重資產基金-NA類型(新台幣)",
+      "isinCode": "T10A1B",
       "company": "富邦投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "54.89",
-      "navDate": "20260602"
-    },
-    {
-      "fundCode": "DIE02",
-      "fundName": "富邦中國ETF傘型基金之富邦上証180單日反向一倍基金",
-      "isinCode": "00634R",
-      "company": "富邦投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "3.01",
-      "navDate": "20260602"
-    },
-    {
-      "fundCode": "DIE07",
-      "fundName": "富邦深証100基金",
-      "isinCode": "00639",
-      "company": "富邦投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "18.59",
-      "navDate": "20260602"
-    },
-    {
-      "fundCode": "DIE03",
-      "fundName": "富邦日本ETF傘型基金之富邦日本東証單日正向兩倍基金",
-      "isinCode": "00640L",
-      "company": "富邦投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "100.68",
+      "latestNav": "12.7392",
       "navDate": "20260602"
     },
     {
@@ -331,6 +331,17 @@
       "currency": "USD",
       "latestNav": "61.62",
       "navDate": "20260602"
+    },
+    {
+      "fundCode": "DDO36",
+      "fundName": "富邦日盛基金",
+      "isinCode": "T2007Y",
+      "company": "富邦投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "31.37",
+      "navDate": "20260603"
     },
     {
       "fundCode": "DIOFU",
@@ -993,6 +1004,17 @@
       "navDate": "20260602"
     },
     {
+      "fundCode": "DDE02",
+      "fundName": "富邦台灣ETF傘型基金之富邦台灣摩根指數股票型基金",
+      "isinCode": "0057",
+      "company": "富邦投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "319.12",
+      "navDate": "20260603"
+    },
+    {
       "fundCode": "DIO73",
       "fundName": "摩根大美國領先收成多重資產基金-累積型(新臺幣)",
       "isinCode": "T1180A",
@@ -1037,17 +1059,6 @@
       "navDate": "20260602"
     },
     {
-      "fundCode": "DIO77",
-      "fundName": "摩根大美國領先收成多重資產基金-月配息型(美元)",
-      "isinCode": "T1180E",
-      "company": "摩根投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "USD",
-      "latestNav": "10.11",
-      "navDate": "20260602"
-    },
-    {
       "fundCode": "DIOF1",
       "fundName": "安聯AI收益成長多重資產基金-A類型(累積)-新臺幣",
       "isinCode": "T3640A",
@@ -1089,17 +1100,6 @@
       "region": "境內",
       "currency": "TWD",
       "latestNav": "15",
-      "navDate": "20260602"
-    },
-    {
-      "fundCode": "DIOF5",
-      "fundName": "安聯AI收益成長多重資產基金-HB類型(月配息)-新臺幣(避險)",
-      "isinCode": "T3640E",
-      "company": "安聯投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "13.2",
       "navDate": "20260602"
     }
   ]
