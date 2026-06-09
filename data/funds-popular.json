@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-09T01:20:32.197591+08:00",
+  "lastUpdate": "2026-06-09T14:08:47.254729+08:00",
   "count": 100,
   "funds": [
     {
@@ -65,8 +65,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "134.704300",
-      "navDate": "20260604"
+      "latestNav": "132.629200",
+      "navDate": "20260605"
     },
     {
       "fundCode": "IE00022FT7U9",
@@ -76,8 +76,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "141.440000",
-      "navDate": "20260604"
+      "latestNav": "140.764900",
+      "navDate": "20260605"
     },
     {
       "fundCode": "IE0003HLPFD5",
@@ -88,7 +88,7 @@
       "region": "境外",
       "currency": "USD",
       "latestNav": "-9999.000000",
-      "navDate": "20260604"
+      "navDate": "20260605"
     },
     {
       "fundCode": "IE00048KFF66",
@@ -98,8 +98,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "138.064100",
-      "navDate": "20260604"
+      "latestNav": "135.941800",
+      "navDate": "20260605"
     },
     {
       "fundCode": "IE0004F6CNR0",
@@ -109,8 +109,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "JPY",
-      "latestNav": "9619.086100",
-      "navDate": "20260604"
+      "latestNav": "9599.397800",
+      "navDate": "20260605"
     },
     {
       "fundCode": "0125",
@@ -120,8 +120,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "EUR",
-      "latestNav": "13.390000",
-      "navDate": "20260604"
+      "latestNav": "13.080000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "0150",
@@ -131,8 +131,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "28.280000",
-      "navDate": "20260604"
+      "latestNav": "28.210000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "0152",
@@ -142,8 +142,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "19.090000",
-      "navDate": "20260604"
+      "latestNav": "18.510000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "0154",
@@ -153,8 +153,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "EUR",
-      "latestNav": "16.450000",
-      "navDate": "20260604"
+      "latestNav": "16.070000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "0280",
@@ -164,8 +164,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "EUR",
-      "latestNav": "35.750000",
-      "navDate": "20260604"
+      "latestNav": "34.570000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "ABACEADAUDH",
@@ -175,8 +175,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "12.510000",
-      "navDate": "20260604"
+      "latestNav": "12.220000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "ABACEADEURH",
@@ -186,8 +186,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "13.640000",
-      "navDate": "20260604"
+      "latestNav": "13.320000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "ABACEADNZDH",
@@ -197,8 +197,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "12.820000",
-      "navDate": "20260604"
+      "latestNav": "12.520000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "ABACEADUSD",
@@ -208,8 +208,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "14.760000",
-      "navDate": "20260604"
+      "latestNav": "14.430000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "ABACEADZARH",
@@ -219,8 +219,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "83.550000",
-      "navDate": "20260604"
+      "latestNav": "81.640000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "BLKABADE",
@@ -230,8 +230,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "EUR",
-      "latestNav": "29.730000",
-      "navDate": "20260604"
+      "latestNav": "29.690000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "BLKABBDD",
@@ -241,8 +241,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "EUR",
-      "latestNav": "150.840000",
-      "navDate": "20260604"
+      "latestNav": "150.670000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "BLKAEFDD",
@@ -252,8 +252,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "86.710000",
-      "navDate": "20260604"
+      "latestNav": "86.290000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "BLKAEMDU",
@@ -263,8 +263,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "70.530000",
-      "navDate": "20260604"
+      "latestNav": "68.160000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "BLKAEMIU",
@@ -274,8 +274,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "17.660000",
-      "navDate": "20260604"
+      "latestNav": "17.070000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "GB0007647489",
@@ -340,8 +340,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "31.210000",
-      "navDate": "20260604"
+      "latestNav": "30.330000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "AGBAAU",
@@ -351,8 +351,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "16.080000",
-      "navDate": "20260604"
+      "latestNav": "16.040000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "AGBIAU",
@@ -362,8 +362,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "141.790000",
-      "navDate": "20260604"
+      "latestNav": "141.430000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "AGCAU",
@@ -373,8 +373,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "13.620000",
-      "navDate": "20260604"
+      "latestNav": "13.240000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "AGDAU",
@@ -384,8 +384,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "18.280000",
-      "navDate": "20260604"
+      "latestNav": "17.770000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "AGIF-FH1",
@@ -395,8 +395,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "16.720200",
-      "navDate": "20260604"
+      "latestNav": "16.703100",
+      "navDate": "20260605"
     },
     {
       "fundCode": "AGIF-FH3",
@@ -406,8 +406,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "EUR",
-      "latestNav": "122.110000",
-      "navDate": "20260604"
+      "latestNav": "121.990000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "AGIF-FH5",
@@ -417,8 +417,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "1998.660000",
-      "navDate": "20260604"
+      "latestNav": "1996.640000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "AGIF-FH8M",
@@ -428,8 +428,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "796.300000",
-      "navDate": "20260604"
+      "latestNav": "795.510000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "AGIF-FHM",
@@ -439,8 +439,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "5.696800",
-      "navDate": "20260604"
+      "latestNav": "5.691000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "AAETA",
@@ -450,8 +450,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "80.075900",
-      "navDate": "20260604"
+      "latestNav": "78.141100",
+      "navDate": "20260605"
     },
     {
       "fundCode": "AAETY",
@@ -461,8 +461,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "543.679600",
-      "navDate": "20260604"
+      "latestNav": "530.585600",
+      "navDate": "20260605"
     },
     {
       "fundCode": "AASCA",
@@ -472,8 +472,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "54.851200",
-      "navDate": "20260604"
+      "latestNav": "53.842200",
+      "navDate": "20260605"
     },
     {
       "fundCode": "AASCY",
@@ -483,8 +483,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "1282.969900",
-      "navDate": "20260604"
+      "latestNav": "1259.452400",
+      "navDate": "20260605"
     },
     {
       "fundCode": "ABWFA",
@@ -494,8 +494,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "28.937500",
-      "navDate": "20260604"
+      "latestNav": "28.333000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "AB02X",
@@ -505,8 +505,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "13.521900",
-      "navDate": "20260604"
+      "latestNav": "13.303300",
+      "navDate": "20260605"
     },
     {
       "fundCode": "AECHINESE",
@@ -516,8 +516,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "29.071500",
-      "navDate": "20260604"
+      "latestNav": "28.600900",
+      "navDate": "20260605"
     },
     {
       "fundCode": "IE0003O8A1X6",
@@ -527,8 +527,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "9.330000",
-      "navDate": "20260604"
+      "latestNav": "9.290000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "IE00045B0809",
@@ -538,8 +538,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "10.380000",
-      "navDate": "20260604"
+      "latestNav": "10.340000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "IE00090XYXM0",
@@ -549,8 +549,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "11.850000",
-      "navDate": "20260604"
+      "latestNav": "11.600000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "IE0009G5SDU7",
@@ -560,8 +560,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "14.200000",
-      "navDate": "20260604"
+      "latestNav": "13.900000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "IE000BQM68H1",
@@ -571,8 +571,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "11.590000",
-      "navDate": "20260604"
+      "latestNav": "11.340000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "HEN01",
@@ -582,8 +582,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "32.570000",
-      "navDate": "20260604"
+      "latestNav": "32.530000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "HEN02",
@@ -593,8 +593,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "106.590000",
-      "navDate": "20260604"
+      "latestNav": "106.910000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "HEN03",
@@ -604,8 +604,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "EUR",
-      "latestNav": "98.090000",
-      "navDate": "20260604"
+      "latestNav": "99.040000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "HEN04",
@@ -615,8 +615,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "EUR",
-      "latestNav": "91.290000",
-      "navDate": "20260604"
+      "latestNav": "91.930000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "HEN05",
@@ -626,8 +626,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "357.360000",
-      "navDate": "20260604"
+      "latestNav": "350.420000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "LU0028118809",
@@ -637,8 +637,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "EUR",
-      "latestNav": "34.810000",
-      "navDate": "20260604"
+      "latestNav": "35.090000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "LU0028119013",
@@ -648,8 +648,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "EUR",
-      "latestNav": "40.290000",
-      "navDate": "20260604"
+      "latestNav": "40.570000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "LU0028119526",
@@ -659,8 +659,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "JPY",
-      "latestNav": "3110.000000",
-      "navDate": "20260604"
+      "latestNav": "3146.000000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "LU0028121183",
@@ -670,8 +670,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "110.574500",
-      "navDate": "20260604"
+      "latestNav": "110.595900",
+      "navDate": "20260605"
     },
     {
       "fundCode": "LU0048816135",
@@ -681,8 +681,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "95.260000",
-      "navDate": "20260604"
+      "latestNav": "94.240000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "GB0000822576",
@@ -693,7 +693,7 @@
       "region": "境外",
       "currency": "GBP",
       "latestNav": "14.420000",
-      "navDate": "20260604"
+      "navDate": "20260605"
     },
     {
       "fundCode": "GB0008192063",
@@ -703,8 +703,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "EUR",
-      "latestNav": "16.670000",
-      "navDate": "20260604"
+      "latestNav": "16.690000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "GB0030655780",
@@ -714,8 +714,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "EUR",
-      "latestNav": "62.860000",
-      "navDate": "20260604"
+      "latestNav": "63.240000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "GB00B3B9V927",
@@ -725,8 +725,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "GBP",
-      "latestNav": "3.023000",
-      "navDate": "20260604"
+      "latestNav": "3.011000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "GB00B3B9VB40",
@@ -736,8 +736,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "EUR",
-      "latestNav": "3.502000",
-      "navDate": "20260604"
+      "latestNav": "3.493000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "LU0012181748",
@@ -747,8 +747,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "JPY",
-      "latestNav": "15242.000000",
-      "navDate": "20260603"
+      "latestNav": "15059.000000",
+      "navDate": "20260604"
     },
     {
       "fundCode": "LU0012182126",
@@ -758,8 +758,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "105.090000",
-      "navDate": "20260603"
+      "latestNav": "105.180000",
+      "navDate": "20260604"
     },
     {
       "fundCode": "LU0012182399",
@@ -769,8 +769,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "540.130000",
-      "navDate": "20260603"
+      "latestNav": "540.630000",
+      "navDate": "20260604"
     },
     {
       "fundCode": "LU0012186622",
@@ -780,8 +780,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "260.395851",
-      "navDate": "20260603"
+      "latestNav": "260.422571",
+      "navDate": "20260604"
     },
     {
       "fundCode": "LU0069970746",
@@ -791,8 +791,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "JPY",
-      "latestNav": "34504.000000",
-      "navDate": "20260603"
+      "latestNav": "34095.000000",
+      "navDate": "20260604"
     },
     {
       "fundCode": "HEN01",
@@ -802,8 +802,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "32.570000",
-      "navDate": "20260604"
+      "latestNav": "32.530000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "HEN02",
@@ -813,8 +813,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "106.590000",
-      "navDate": "20260604"
+      "latestNav": "106.910000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "HEN03",
@@ -824,8 +824,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "EUR",
-      "latestNav": "98.090000",
-      "navDate": "20260604"
+      "latestNav": "99.040000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "HEN04",
@@ -835,8 +835,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "EUR",
-      "latestNav": "91.290000",
-      "navDate": "20260604"
+      "latestNav": "91.930000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "HEN05",
@@ -846,8 +846,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "357.360000",
-      "navDate": "20260604"
+      "latestNav": "350.420000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "1AH",
@@ -857,8 +857,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "AUD",
-      "latestNav": "3.429000",
-      "navDate": "20260604"
+      "latestNav": "3.441000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "AB2",
@@ -868,8 +868,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "ZAR",
-      "latestNav": "19.886000",
-      "navDate": "20260604"
+      "latestNav": "19.845000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "ABT",
@@ -879,8 +879,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "7.130000",
-      "navDate": "20260604"
+      "latestNav": "7.114000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "ABZ",
@@ -890,8 +890,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "ZAR",
-      "latestNav": "7.351000",
-      "navDate": "20260604"
+      "latestNav": "7.334000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "ADA",
@@ -901,8 +901,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "18.273000",
-      "navDate": "20260604"
+      "latestNav": "17.709000",
+      "navDate": "20260605"
     },
     {
       "fundCode": "000AMEEBEI",
@@ -912,8 +912,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "EUR",
-      "latestNav": "31.682100",
-      "navDate": "20260603"
+      "latestNav": "31.696100",
+      "navDate": "20260604"
     },
     {
       "fundCode": "000AMEEBEIU",
@@ -923,8 +923,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "36.788800",
-      "navDate": "20260603"
+      "latestNav": "36.865300",
+      "navDate": "20260604"
     },
     {
       "fundCode": "000AMEFEUA",
@@ -934,8 +934,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "56.562100",
-      "navDate": "20260603"
+      "latestNav": "56.450800",
+      "navDate": "20260604"
     },
     {
       "fundCode": "000AMEFEUAEH",
@@ -945,8 +945,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "EUR",
-      "latestNav": "55.243800",
-      "navDate": "20260603"
+      "latestNav": "55.126600",
+      "navDate": "20260604"
     },
     {
       "fundCode": "000AMESTAU",
@@ -956,8 +956,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "21.483500",
-      "navDate": "20260603"
+      "latestNav": "21.496700",
+      "navDate": "20260604"
     },
     {
       "fundCode": "000AMESTAUEP",
@@ -967,8 +967,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "EUR",
-      "latestNav": "4.319200",
-      "navDate": "20260603"
+      "latestNav": "4.321200",
+      "navDate": "20260604"
     },
     {
       "fundCode": "000AMESTAUUP",
@@ -978,8 +978,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "5.052900",
-      "navDate": "20260603"
+      "latestNav": "5.056000",
+      "navDate": "20260604"
     },
     {
       "fundCode": "000AMGEMAU",
@@ -989,8 +989,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "25.856300",
-      "navDate": "20260603"
+      "latestNav": "25.875500",
+      "navDate": "20260604"
     },
     {
       "fundCode": "000AMGEMAUEH",
@@ -1000,8 +1000,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "EUR",
-      "latestNav": "22.203000",
-      "navDate": "20260603"
+      "latestNav": "22.215700",
+      "navDate": "20260604"
     },
     {
       "fundCode": "000AMGEMAUEP",
@@ -1011,8 +1011,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "EUR",
-      "latestNav": "10.010900",
-      "navDate": "20260603"
+      "latestNav": "10.016600",
+      "navDate": "20260604"
     },
     {
       "fundCode": "000AMGEMAUUP",
@@ -1022,8 +1022,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "7.085600",
-      "navDate": "20260603"
+      "latestNav": "7.090900",
+      "navDate": "20260604"
     },
     {
       "fundCode": "000EPCEMDI",
@@ -1033,8 +1033,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "90.685800",
-      "navDate": "20260603"
+      "latestNav": "90.742800",
+      "navDate": "20260604"
     },
     {
       "fundCode": "000EPCEMDIEH",
@@ -1044,8 +1044,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "EUR",
-      "latestNav": "27.672500",
-      "navDate": "20260603"
+      "latestNav": "27.685100",
+      "navDate": "20260604"
     },
     {
       "fundCode": "000EPCEMDIEP",
@@ -1055,8 +1055,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "EUR",
-      "latestNav": "7.233600",
-      "navDate": "20260603"
+      "latestNav": "7.236800",
+      "navDate": "20260604"
     },
     {
       "fundCode": "000EPCEMDIUP",
@@ -1066,8 +1066,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "9.875000",
-      "navDate": "20260603"
+      "latestNav": "9.881200",
+      "navDate": "20260604"
     },
     {
       "fundCode": "000EPCEUEI",
@@ -1077,8 +1077,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "EUR",
-      "latestNav": "116.398300",
-      "navDate": "20260603"
+      "latestNav": "116.710800",
+      "navDate": "20260604"
     },
     {
       "fundCode": "000EPCEUEIU",
@@ -1088,8 +1088,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "135.156100",
-      "navDate": "20260603"
+      "latestNav": "135.740700",
+      "navDate": "20260604"
     },
     {
       "fundCode": "000EPCGSBI",
@@ -1099,8 +1099,8 @@
       "type": "境外基金",
       "region": "境外",
       "currency": "USD",
-      "latestNav": "50.760800",
-      "navDate": "20260603"
+      "latestNav": "50.808300",
+      "navDate": "20260604"
     }
   ]
 }
