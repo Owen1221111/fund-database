@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-26T16:25:20.405022+08:00",
+  "lastUpdate": "2026-06-27T00:12:32.000959+08:00",
   "count": 100,
   "funds": [
     {
@@ -10,8 +10,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "24.76",
-      "navDate": "20260624"
+      "latestNav": "24.64",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIE32",
@@ -21,8 +21,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "9.3287",
-      "navDate": "20260624"
+      "latestNav": "9.3509",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIE34",
@@ -32,8 +32,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "8.8117",
-      "navDate": "20260624"
+      "latestNav": "8.8172",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIE33",
@@ -43,8 +43,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "9.4465",
-      "navDate": "20260624"
+      "latestNav": "9.4566",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIOD1",
@@ -54,8 +54,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "11.43",
-      "navDate": "20260624"
+      "latestNav": "11.38",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DDO48",
@@ -65,8 +65,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "11.98",
-      "navDate": "20260625"
+      "latestNav": "11.86",
+      "navDate": "20260626"
     },
     {
       "fundCode": "DDE13",
@@ -76,8 +76,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "19.5",
-      "navDate": "20260625"
+      "latestNav": "18.35",
+      "navDate": "20260626"
     },
     {
       "fundCode": "DDE14",
@@ -87,8 +87,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "17.89",
-      "navDate": "20260625"
+      "latestNav": "17.34",
+      "navDate": "20260626"
     },
     {
       "fundCode": "DIOC6",
@@ -98,8 +98,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "12.5184",
-      "navDate": "20260624"
+      "latestNav": "12.5883",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIOC7",
@@ -109,8 +109,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "12.5184",
-      "navDate": "20260624"
+      "latestNav": "12.5883",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIE39",
@@ -120,8 +120,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "8.84",
-      "navDate": "20260625"
+      "latestNav": "8.98",
+      "navDate": "20260626"
     },
     {
       "fundCode": "DDA01",
@@ -131,8 +131,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "15.02",
-      "navDate": "20260625"
+      "latestNav": "14.16",
+      "navDate": "20260626"
     },
     {
       "fundCode": "DDO12",
@@ -142,8 +142,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "121.73",
-      "navDate": "20260625"
+      "latestNav": "113.9",
+      "navDate": "20260626"
     },
     {
       "fundCode": "DDO24",
@@ -154,7 +154,7 @@
       "region": "境內",
       "currency": "USD",
       "latestNav": "-",
-      "navDate": "20260625"
+      "navDate": "20260626"
     },
     {
       "fundCode": "DDO30",
@@ -164,8 +164,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "123.02",
-      "navDate": "20260625"
+      "latestNav": "115.11",
+      "navDate": "20260626"
     },
     {
       "fundCode": "DIE18",
@@ -175,8 +175,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "9.6744",
-      "navDate": "20260624"
+      "latestNav": "9.6924",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIOP2",
@@ -186,8 +186,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "10.4188",
-      "navDate": "20260624"
+      "latestNav": "10.6106",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIOP3",
@@ -197,8 +197,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "10.0102",
-      "navDate": "20260624"
+      "latestNav": "10.1945",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIOP4",
@@ -208,8 +208,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "10.4183",
-      "navDate": "20260624"
+      "latestNav": "10.6101",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIOP5",
@@ -219,8 +219,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "10.0103",
-      "navDate": "20260624"
+      "latestNav": "10.1947",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIE04",
@@ -230,8 +230,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "14.2873",
-      "navDate": "20260624"
+      "latestNav": "14.2892",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DDO26",
@@ -241,8 +241,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "17.2994",
-      "navDate": "20260625"
+      "latestNav": "16.9584",
+      "navDate": "20260626"
     },
     {
       "fundCode": "DDO27",
@@ -252,8 +252,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "16.5786",
-      "navDate": "20260625"
+      "latestNav": "16.2517",
+      "navDate": "20260626"
     },
     {
       "fundCode": "DDA01",
@@ -263,8 +263,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "31.58",
-      "navDate": "20260625"
+      "latestNav": "29.84",
+      "navDate": "20260626"
     },
     {
       "fundCode": "DIE05",
@@ -274,8 +274,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "12.63",
-      "navDate": "20260624"
+      "latestNav": "12.59",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DDA01",
@@ -285,8 +285,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "20.72",
-      "navDate": "20260625"
+      "latestNav": "19.59",
+      "navDate": "20260626"
     },
     {
       "fundCode": "DIA01",
@@ -296,8 +296,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "16.66",
-      "navDate": "20260624"
+      "latestNav": "16.77",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIA02",
@@ -307,8 +307,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "14.91",
-      "navDate": "20260624"
+      "latestNav": "14.95",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIO09",
@@ -318,8 +318,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "98.77",
-      "navDate": "20260624"
+      "latestNav": "104.75",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIO42",
@@ -329,8 +329,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "USD",
-      "latestNav": "61.87",
-      "navDate": "20260624"
+      "latestNav": "65.44",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DDO36",
@@ -340,8 +340,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "30",
-      "navDate": "20260625"
+      "latestNav": "28.23",
+      "navDate": "20260626"
     },
     {
       "fundCode": "DIOFU",
@@ -351,8 +351,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "16.435",
-      "navDate": "20260624"
+      "latestNav": "16.6997",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIOFV",
@@ -362,8 +362,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "14.4623",
-      "navDate": "20260624"
+      "latestNav": "14.6951",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIOFW",
@@ -373,8 +373,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "16.4395",
-      "navDate": "20260624"
+      "latestNav": "16.704",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIOFX",
@@ -384,8 +384,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "14.4619",
-      "navDate": "20260624"
+      "latestNav": "14.6946",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIOFY",
@@ -395,8 +395,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "13.1133",
-      "navDate": "20260624"
+      "latestNav": "13.3245",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIE02",
@@ -406,8 +406,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "13.7652",
-      "navDate": "20260624"
+      "latestNav": "13.7787",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIOB2",
@@ -417,8 +417,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "13.7",
-      "navDate": "20260624"
+      "latestNav": "13.82",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIOB3",
@@ -428,8 +428,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "12.55",
-      "navDate": "20260624"
+      "latestNav": "12.66",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIOB4",
@@ -439,8 +439,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "12.55",
-      "navDate": "20260624"
+      "latestNav": "12.66",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIOB5",
@@ -450,8 +450,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "USD",
-      "latestNav": "13.8",
-      "navDate": "20260624"
+      "latestNav": "13.9",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIE81",
@@ -461,8 +461,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "19.67",
-      "navDate": "20260624"
+      "latestNav": "21.17",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIOI3",
@@ -472,8 +472,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "21.73",
-      "navDate": "20260624"
+      "latestNav": "22.8",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIOI4",
@@ -483,8 +483,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "21.74",
-      "navDate": "20260624"
+      "latestNav": "22.8",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIOI5",
@@ -494,8 +494,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "16.34",
-      "navDate": "20260624"
+      "latestNav": "17.14",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIOI6",
@@ -505,8 +505,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "USD",
-      "latestNav": "21.9943",
-      "navDate": "20260624"
+      "latestNav": "23.009",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIE23",
@@ -517,7 +517,7 @@
       "region": "境內",
       "currency": "TWD",
       "latestNav": "12.08",
-      "navDate": "20260624"
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIE22",
@@ -527,8 +527,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "13.93",
-      "navDate": "20260624"
+      "latestNav": "13.77",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIE21",
@@ -538,8 +538,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "20.97",
-      "navDate": "20260624"
+      "latestNav": "22.57",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIE25",
@@ -549,8 +549,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "14.04",
-      "navDate": "20260624"
+      "latestNav": "13.91",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIE24",
@@ -560,8 +560,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "12.44",
-      "navDate": "20260624"
+      "latestNav": "12.52",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIE17",
@@ -571,8 +571,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "14.3519",
-      "navDate": "20260624"
+      "latestNav": "14.3681",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DDE02",
@@ -582,8 +582,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "18.81",
-      "navDate": "20260625"
+      "latestNav": "17.87",
+      "navDate": "20260626"
     },
     {
       "fundCode": "DIE18",
@@ -593,8 +593,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "11.17",
-      "navDate": "20260624"
+      "latestNav": "11.06",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIE19",
@@ -604,8 +604,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "12.29",
-      "navDate": "20260624"
+      "latestNav": "12.31",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DDE04",
@@ -615,8 +615,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "15.53",
-      "navDate": "20260625"
+      "latestNav": "14.91",
+      "navDate": "20260626"
     },
     {
       "fundCode": "DIE09",
@@ -626,8 +626,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "9.4782",
-      "navDate": "20260624"
+      "latestNav": "9.4953",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIOB5",
@@ -637,8 +637,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "10.3698",
-      "navDate": "20260624"
+      "latestNav": "10.4025",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIOB6",
@@ -648,8 +648,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "9.8722",
-      "navDate": "20260624"
+      "latestNav": "9.9031",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIOB7",
@@ -659,8 +659,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "USD",
-      "latestNav": "10.5979",
-      "navDate": "20260624"
+      "latestNav": "10.6036",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIOB8",
@@ -670,8 +670,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "USD",
-      "latestNav": "10.0665",
-      "navDate": "20260624"
+      "latestNav": "10.0718",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIOC1",
@@ -681,8 +681,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "13.13",
-      "navDate": "20260624"
+      "latestNav": "13.37",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIOC2",
@@ -692,8 +692,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "JPY",
-      "latestNav": "145.79",
-      "navDate": "20260624"
+      "latestNav": "148.11",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIE07",
@@ -703,8 +703,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "9.2112",
-      "navDate": "20260624"
+      "latestNav": "9.234",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DDA01",
@@ -714,8 +714,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "18.09",
-      "navDate": "20260625"
+      "latestNav": "17.18",
+      "navDate": "20260626"
     },
     {
       "fundCode": "DDM01",
@@ -725,8 +725,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "189.771",
-      "navDate": "20260625"
+      "latestNav": "189.78",
+      "navDate": "20260626"
     },
     {
       "fundCode": "DIOJ1",
@@ -736,8 +736,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "14.26",
-      "navDate": "20260624"
+      "latestNav": "14.28",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIOJ2",
@@ -747,8 +747,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "12.97",
-      "navDate": "20260624"
+      "latestNav": "13",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIOJ3",
@@ -758,8 +758,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "12.96",
-      "navDate": "20260624"
+      "latestNav": "12.99",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIOJ4",
@@ -769,8 +769,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "USD",
-      "latestNav": "14.95",
-      "navDate": "20260624"
+      "latestNav": "14.94",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIOJ5",
@@ -780,8 +780,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "USD",
-      "latestNav": "13.58",
-      "navDate": "20260624"
+      "latestNav": "13.57",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DDEB3",
@@ -791,8 +791,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "12.75",
-      "navDate": "20260625"
+      "latestNav": "12.43",
+      "navDate": "20260626"
     },
     {
       "fundCode": "DIEB2",
@@ -802,8 +802,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "10.1104",
-      "navDate": "20260624"
+      "latestNav": "10.1179",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIEB3",
@@ -813,8 +813,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "10.1507",
-      "navDate": "20260624"
+      "latestNav": "10.169",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DDO01",
@@ -824,8 +824,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "323.92",
-      "navDate": "20260625"
+      "latestNav": "306.11",
+      "navDate": "20260626"
     },
     {
       "fundCode": "DDO04",
@@ -835,8 +835,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "26.06",
-      "navDate": "20260625"
+      "latestNav": "24.63",
+      "navDate": "20260626"
     },
     {
       "fundCode": "DIA01",
@@ -846,8 +846,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "20.57",
-      "navDate": "20260624"
+      "latestNav": "20.61",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIA02",
@@ -857,8 +857,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "10.0982",
-      "navDate": "20260624"
+      "latestNav": "10.1224",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DDA01",
@@ -868,8 +868,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "10.18",
-      "navDate": "20260625"
+      "latestNav": "9.7",
+      "navDate": "20260626"
     },
     {
       "fundCode": "DIO06",
@@ -879,8 +879,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "11.14",
-      "navDate": "20260624"
+      "latestNav": "11.16",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIO07",
@@ -890,8 +890,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "5.3",
-      "navDate": "20260624"
+      "latestNav": "5.31",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIO34",
@@ -901,8 +901,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "10.1695",
-      "navDate": "20260624"
+      "latestNav": "10.1895",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIO35",
@@ -912,8 +912,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "9.776",
-      "navDate": "20260624"
+      "latestNav": "9.7953",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIO36",
@@ -923,8 +923,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "USD",
-      "latestNav": "10.4745",
-      "navDate": "20260624"
+      "latestNav": "10.4754",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIO37",
@@ -934,8 +934,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "USD",
-      "latestNav": "10.0955",
-      "navDate": "20260624"
+      "latestNav": "10.0963",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIE01",
@@ -945,8 +945,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "10.79",
-      "navDate": "20260624"
+      "latestNav": "10.77",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIOD7",
@@ -956,8 +956,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "12.01",
-      "navDate": "20260624"
+      "latestNav": "12.04",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIOD8",
@@ -968,7 +968,7 @@
       "region": "境內",
       "currency": "TWD",
       "latestNav": "10",
-      "navDate": "20260624"
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIOD9",
@@ -978,8 +978,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "USD",
-      "latestNav": "12.38",
-      "navDate": "20260624"
+      "latestNav": "12.37",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIOE0",
@@ -989,8 +989,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "USD",
-      "latestNav": "12.88",
-      "navDate": "20260624"
+      "latestNav": "12.87",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIOE2",
@@ -1000,8 +1000,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "21.2",
-      "navDate": "20260624"
+      "latestNav": "21.09",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DDE02",
@@ -1011,8 +1011,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "317.14",
-      "navDate": "20260625"
+      "latestNav": "305.68",
+      "navDate": "20260626"
     },
     {
       "fundCode": "DIO73",
@@ -1022,8 +1022,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "11.06",
-      "navDate": "20260624"
+      "latestNav": "11.1",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIO76",
@@ -1033,8 +1033,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "9.59",
-      "navDate": "20260624"
+      "latestNav": "9.62",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIO79",
@@ -1044,8 +1044,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "9.58",
-      "navDate": "20260624"
+      "latestNav": "9.62",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIO74",
@@ -1055,8 +1055,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "USD",
-      "latestNav": "11.48",
-      "navDate": "20260624"
+      "latestNav": "11.51",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIOF1",
@@ -1066,8 +1066,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "15.4",
-      "navDate": "20260624"
+      "latestNav": "15.65",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIOF2",
@@ -1077,8 +1077,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "13.54",
-      "navDate": "20260624"
+      "latestNav": "13.76",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIOF3",
@@ -1088,8 +1088,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "13.54",
-      "navDate": "20260624"
+      "latestNav": "13.76",
+      "navDate": "20260625"
     },
     {
       "fundCode": "DIOF4",
@@ -1099,8 +1099,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "14.72",
-      "navDate": "20260624"
+      "latestNav": "14.93",
+      "navDate": "20260625"
     }
   ]
 }
