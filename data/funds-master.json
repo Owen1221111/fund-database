@@ -1,403 +1,7 @@
 {
-  "lastUpdate": "2026-07-11T22:48:55.826435+08:00",
-  "count": 5984,
+  "lastUpdate": "2026-07-12T13:27:34.096945+08:00",
+  "count": 5948,
   "funds": [
-    {
-      "fundCode": "DIM01",
-      "fundName": "兆豐人民幣貨幣市場基金",
-      "isinCode": "T0118Y",
-      "company": "兆豐投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "CNY",
-      "latestNav": "13.6694",
-      "navDate": "20260709"
-    },
-    {
-      "fundCode": "DIM03",
-      "fundName": "兆豐美元貨幣市場基金(新台幣)",
-      "isinCode": "T0123A",
-      "company": "兆豐投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "12.6932",
-      "navDate": "20260709"
-    },
-    {
-      "fundCode": "DIM04",
-      "fundName": "兆豐美元貨幣市場基金(美元)",
-      "isinCode": "T0123B",
-      "company": "兆豐投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "USD",
-      "latestNav": "12.7072",
-      "navDate": "20260709"
-    },
-    {
-      "fundCode": "DIE06",
-      "fundName": "元大標智滬深300基金",
-      "isinCode": "0061",
-      "company": "元大投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "25.86",
-      "navDate": "20260709"
-    },
-    {
-      "fundCode": "DIE07",
-      "fundName": "元大上證50基金",
-      "isinCode": "006206",
-      "company": "元大投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "38.64",
-      "navDate": "20260709"
-    },
-    {
-      "fundCode": "DIE02",
-      "fundName": "元大滬深300單日反向1倍基金",
-      "isinCode": "00638R",
-      "company": "元大投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "6.58",
-      "navDate": "20260709"
-    },
-    {
-      "fundCode": "DIE01",
-      "fundName": "元大滬深300單日正向2倍基金",
-      "isinCode": "00637L",
-      "company": "元大投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "21.57",
-      "navDate": "20260709"
-    },
-    {
-      "fundCode": "DIM03",
-      "fundName": "元大美元貨幣市場基金-新台幣",
-      "isinCode": "T05A1A",
-      "company": "元大投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "12.1913",
-      "navDate": "20260709"
-    },
-    {
-      "fundCode": "DIM04",
-      "fundName": "元大美元貨幣市場基金-美元",
-      "isinCode": "T05A1B",
-      "company": "元大投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "USD",
-      "latestNav": "12.6305",
-      "navDate": "20260709"
-    },
-    {
-      "fundCode": "DIE09",
-      "fundName": "元大日經225基金",
-      "isinCode": "00661",
-      "company": "元大投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "87.64",
-      "navDate": "20260709"
-    },
-    {
-      "fundCode": "DIE06",
-      "fundName": "富邦上証180基金",
-      "isinCode": "006205",
-      "company": "富邦投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "42.07",
-      "navDate": "20260709"
-    },
-    {
-      "fundCode": "DIE01",
-      "fundName": "富邦中國ETF傘型基金之富邦上証180單日正向兩倍基金",
-      "isinCode": "00633L",
-      "company": "富邦投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "51.8",
-      "navDate": "20260709"
-    },
-    {
-      "fundCode": "DIE02",
-      "fundName": "富邦中國ETF傘型基金之富邦上証180單日反向一倍基金",
-      "isinCode": "00634R",
-      "company": "富邦投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "3.09",
-      "navDate": "20260709"
-    },
-    {
-      "fundCode": "DIE07",
-      "fundName": "富邦深証100基金",
-      "isinCode": "00639",
-      "company": "富邦投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "18.37",
-      "navDate": "20260709"
-    },
-    {
-      "fundCode": "DIE03",
-      "fundName": "富邦日本ETF傘型基金之富邦日本東証單日正向兩倍基金",
-      "isinCode": "00640L",
-      "company": "富邦投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "105.08",
-      "navDate": "20260709"
-    },
-    {
-      "fundCode": "DIE04",
-      "fundName": "富邦日本ETF傘型基金之富邦日本東証單日反向一倍基金",
-      "isinCode": "00641R",
-      "company": "富邦投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "3.77",
-      "navDate": "20260709"
-    },
-    {
-      "fundCode": "DIE05",
-      "fundName": "富邦日本東証基金",
-      "isinCode": "00645",
-      "company": "富邦投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "56.89",
-      "navDate": "20260709"
-    },
-    {
-      "fundCode": "DIE13",
-      "fundName": "富邦恒生國企ETF傘型基金之富邦恒生國企單日反向一倍基金",
-      "isinCode": "00666R",
-      "company": "富邦投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "9.73",
-      "navDate": "20260709"
-    },
-    {
-      "fundCode": "DIE12",
-      "fundName": "富邦恒生國企ETF傘型基金之富邦恒生國企單日正向兩倍基金",
-      "isinCode": "00665L",
-      "company": "富邦投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "8.52",
-      "navDate": "20260709"
-    },
-    {
-      "fundCode": "DIE21",
-      "fundName": "富邦恒生國企ETF基金",
-      "isinCode": "00700",
-      "company": "富邦投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "16.58",
-      "navDate": "20260709"
-    },
-    {
-      "fundCode": "DIE29",
-      "fundName": "富邦多元收益ⅡETF傘型基金之富邦中國中証中小500ETF基金",
-      "isinCode": "00783",
-      "company": "富邦投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "31.25",
-      "navDate": "20260709"
-    },
-    {
-      "fundCode": "DIE36",
-      "fundName": "富邦富時越南ETF基金",
-      "isinCode": "00885",
-      "company": "富邦投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "19",
-      "navDate": "20260709"
-    },
-    {
-      "fundCode": "DIE01",
-      "fundName": "群益深証中小100基金",
-      "isinCode": "00643",
-      "company": "群益投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "20.53",
-      "navDate": "20260709"
-    },
-    {
-      "fundCode": "DIE01",
-      "fundName": "復華滬深300 A股基金",
-      "isinCode": "006207",
-      "company": "復華投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "34.27",
-      "navDate": "20260709"
-    },
-    {
-      "fundCode": "DIE03",
-      "fundName": "復華恒生單日正向二倍基金",
-      "isinCode": "00650L",
-      "company": "復華投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "15.42",
-      "navDate": "20260709"
-    },
-    {
-      "fundCode": "DIE04",
-      "fundName": "復華恒生單日反向一倍基金",
-      "isinCode": "00651R",
-      "company": "復華投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "5.56",
-      "navDate": "20260709"
-    },
-    {
-      "fundCode": "DIE18",
-      "fundName": "復華中國5G通信ETF基金",
-      "isinCode": "00877",
-      "company": "復華投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "45.56",
-      "navDate": "20260709"
-    },
-    {
-      "fundCode": "DIE20",
-      "fundName": "復華日本護城河優勢龍頭企業ETF基金",
-      "isinCode": "00949",
-      "company": "復華投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "20.79",
-      "navDate": "20260709"
-    },
-    {
-      "fundCode": "DIE03",
-      "fundName": "野村美日ETF傘型基金之日本價值動能高息ETF基金",
-      "isinCode": "00972",
-      "company": "野村投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "20.16",
-      "navDate": "20260709"
-    },
-    {
-      "fundCode": "DIE04",
-      "fundName": "野村日本東證ETF基金",
-      "isinCode": "009812",
-      "company": "野村投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "12.51",
-      "navDate": "20260709"
-    },
-    {
-      "fundCode": "DIE39",
-      "fundName": "國泰大和日本不動產收息ETF基金",
-      "isinCode": "009817",
-      "company": "國泰投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "9.11",
-      "navDate": "20260709"
-    },
-    {
-      "fundCode": "DIE01",
-      "fundName": "國泰富時中國A50基金",
-      "isinCode": "00636",
-      "company": "國泰投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "29.18",
-      "navDate": "20260709"
-    },
-    {
-      "fundCode": "DIE03",
-      "fundName": "國泰A50傘型基金之富時中國A50單日反向1倍基金",
-      "isinCode": "00656R",
-      "company": "國泰投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "5.82",
-      "navDate": "20260709"
-    },
-    {
-      "fundCode": "DIE02",
-      "fundName": "國泰A50傘型基金之富時中國A50單日正向2倍基金",
-      "isinCode": "00655L",
-      "company": "國泰投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "36.21",
-      "navDate": "20260709"
-    },
-    {
-      "fundCode": "DIE04",
-      "fundName": "國泰日本ETF傘型基金之日經225基金",
-      "isinCode": "00657",
-      "company": "國泰投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "79.46",
-      "navDate": "20260709"
-    },
-    {
-      "fundCode": "DIE19",
-      "fundName": "國泰趨勢ETF傘型基金之臺韓科技基金",
-      "isinCode": "00735",
-      "company": "國泰投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "106.92",
-      "navDate": "20260709"
-    },
     {
       "fundCode": "000AMEEBEI",
       "fundName": "天利(盧森堡)-歐洲策略債券基金(歐元)",
@@ -65669,7 +65273,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "30.140000",
+      "latestNav": "30.560000",
       "navDate": ""
     },
     {
@@ -65680,7 +65284,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "20.720000",
+      "latestNav": "20.680000",
       "navDate": ""
     },
     {
@@ -65691,7 +65295,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "50.060000",
+      "latestNav": "46.620000",
       "navDate": ""
     },
     {
@@ -65702,7 +65306,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "33.670000",
+      "latestNav": "34.570000",
       "navDate": ""
     },
     {
@@ -65713,7 +65317,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "17.320000",
+      "latestNav": "17.790000",
       "navDate": ""
     },
     {
@@ -65724,7 +65328,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "42.720000",
+      "latestNav": "44.020000",
       "navDate": ""
     },
     {
@@ -65735,7 +65339,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "28.120000",
+      "latestNav": "27.200000",
       "navDate": ""
     },
     {
@@ -65746,7 +65350,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "13.000000",
+      "latestNav": "13.420000",
       "navDate": ""
     },
     {
@@ -65757,7 +65361,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "20.650000",
+      "latestNav": "20.630000",
       "navDate": ""
     },
     {
@@ -65768,7 +65372,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "21.610000",
+      "latestNav": "21.570000",
       "navDate": ""
     },
     {
@@ -65779,7 +65383,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "15.250000",
+      "latestNav": "15.270000",
       "navDate": ""
     },
     {
@@ -65790,7 +65394,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "19.000000",
+      "latestNav": "18.960000",
       "navDate": ""
     },
     {
@@ -65801,7 +65405,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "32.460000",
+      "latestNav": "32.490000",
       "navDate": ""
     },
     {
@@ -65812,7 +65416,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "72.820000",
+      "latestNav": "77.250000",
       "navDate": ""
     },
     {
@@ -65823,7 +65427,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "51.430000",
+      "latestNav": "54.630000",
       "navDate": ""
     }
   ]
