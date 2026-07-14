@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-07-14T12:49:54.657695+08:00",
-  "count": 10343,
+  "lastUpdate": "2026-07-14T15:03:34.289955+08:00",
+  "count": 10348,
   "funds": [
     {
       "fundCode": "DIE02",
@@ -10728,6 +10728,17 @@
       "navDate": "20260709"
     },
     {
+      "fundCode": "DIOF7",
+      "fundName": "富邦AI智能新趨勢多重資產型基金-TISA類型(新台幣)",
+      "isinCode": "73712293G",
+      "company": "富邦投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "-",
+      "navDate": "20260713"
+    },
+    {
       "fundCode": "DDO39",
       "fundName": "富邦小而美基金",
       "isinCode": "T2004Y",
@@ -10816,6 +10827,17 @@
       "navDate": "20260713"
     },
     {
+      "fundCode": "DDO48",
+      "fundName": "富邦上選基金(TISA類型)",
+      "isinCode": "81584975D",
+      "company": "富邦投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "-",
+      "navDate": "20260713"
+    },
+    {
       "fundCode": "DDO08",
       "fundName": "富邦高成長基金",
       "isinCode": "T1011Y",
@@ -10857,6 +10879,17 @@
       "region": "境內",
       "currency": "TWD",
       "latestNav": "24.63",
+      "navDate": "20260713"
+    },
+    {
+      "fundCode": "DDO47",
+      "fundName": "富邦台灣高股息基金-TISA類型",
+      "isinCode": "88095396C",
+      "company": "富邦投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "-",
       "navDate": "20260713"
     },
     {
@@ -10967,6 +11000,17 @@
       "region": "境內",
       "currency": "TWD",
       "latestNav": "50.49",
+      "navDate": "20260713"
+    },
+    {
+      "fundCode": "DDO49",
+      "fundName": "富邦台灣永續成長股息基金-TISA類型",
+      "isinCode": "88175551B",
+      "company": "富邦投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "-",
       "navDate": "20260713"
     },
     {
@@ -11275,6 +11319,17 @@
       "region": "境內",
       "currency": "TWD",
       "latestNav": "385.36",
+      "navDate": "20260713"
+    },
+    {
+      "fundCode": "DDO50",
+      "fundName": "富邦新台商基金-TISA類型",
+      "isinCode": "94991068B",
+      "company": "富邦投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "-",
       "navDate": "20260713"
     },
     {
