@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-08-07T12:24:20.051763+08:00",
-  "count": 10393,
+  "lastUpdate": "2026-08-07T14:04:29.199720+08:00",
+  "count": 10401,
   "funds": [
     {
       "fundCode": "DIE02",
@@ -35896,6 +35896,28 @@
       "navDate": "20260806"
     },
     {
+      "fundCode": "DDO33",
+      "fundName": "國泰國泰基金-新台幣B(配息)",
+      "isinCode": "17612497C",
+      "company": "國泰投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "-",
+      "navDate": "20260806"
+    },
+    {
+      "fundCode": "DDO34",
+      "fundName": "國泰國泰基金-新台幣NB(配息)",
+      "isinCode": "17612497D",
+      "company": "國泰投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "-",
+      "navDate": "20260806"
+    },
+    {
       "fundCode": "DDM01",
       "fundName": "國泰台灣貨幣市場基金",
       "isinCode": "T3702Y",
@@ -35925,6 +35947,28 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "USD",
+      "latestNav": "-",
+      "navDate": "20260806"
+    },
+    {
+      "fundCode": "DDO35",
+      "fundName": "國泰中小成長基金-新台幣B(配息)",
+      "isinCode": "18043059C",
+      "company": "國泰投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "-",
+      "navDate": "20260806"
+    },
+    {
+      "fundCode": "DDO36",
+      "fundName": "國泰中小成長基金-新台幣NB(配息)",
+      "isinCode": "18043059D",
+      "company": "國泰投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
       "latestNav": "-",
       "navDate": "20260806"
     },
@@ -36685,6 +36729,50 @@
       "region": "境內",
       "currency": "USD",
       "latestNav": "0.681",
+      "navDate": "20260805"
+    },
+    {
+      "fundCode": "DIOJ5",
+      "fundName": "國泰全球基礎建設基金-新台幣B(配息)",
+      "isinCode": "48832881C",
+      "company": "國泰投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "-",
+      "navDate": "20260805"
+    },
+    {
+      "fundCode": "DIOJ6",
+      "fundName": "國泰全球基礎建設基金-新台幣NB(配息)",
+      "isinCode": "48832881D",
+      "company": "國泰投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "-",
+      "navDate": "20260805"
+    },
+    {
+      "fundCode": "DIOJ7",
+      "fundName": "國泰全球基礎建設基金-美元B(配息)",
+      "isinCode": "48832881E",
+      "company": "國泰投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "USD",
+      "latestNav": "-",
+      "navDate": "20260805"
+    },
+    {
+      "fundCode": "DIOJ8",
+      "fundName": "國泰全球基礎建設基金-美元NB(配息)",
+      "isinCode": "48832881F",
+      "company": "國泰投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "USD",
+      "latestNav": "-",
       "navDate": "20260805"
     },
     {
