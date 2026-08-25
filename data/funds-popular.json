@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-24T22:37:04.795708+08:00",
+  "lastUpdate": "2026-08-25T10:56:24.955721+08:00",
   "count": 100,
   "funds": [
     {
@@ -168,14 +168,58 @@
       "navDate": "20260821"
     },
     {
-      "fundCode": "DIE01",
-      "fundName": "群益深証中小100基金",
-      "isinCode": "00643",
+      "fundCode": "DIE18",
+      "fundName": "群益優選收益非投資等級債券ETF基金",
+      "isinCode": "00953B",
       "company": "群益投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "18.65",
+      "latestNav": "9.6543",
+      "navDate": "20260821"
+    },
+    {
+      "fundCode": "DIOP2",
+      "fundName": "群益印美戰略多重資產基金A(累積型-新臺幣)",
+      "isinCode": "T1679A",
+      "company": "群益投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "9.9671",
+      "navDate": "20260821"
+    },
+    {
+      "fundCode": "DIOP3",
+      "fundName": "群益印美戰略多重資產基金B(月配型-新臺幣)",
+      "isinCode": "T1679B",
+      "company": "群益投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "9.5126",
+      "navDate": "20260821"
+    },
+    {
+      "fundCode": "DIOP4",
+      "fundName": "群益印美戰略多重資產基金NA(累積型-新臺幣)",
+      "isinCode": "T1679C",
+      "company": "群益投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "9.9666",
+      "navDate": "20260821"
+    },
+    {
+      "fundCode": "DIOP5",
+      "fundName": "群益印美戰略多重資產基金NB(月配型-新臺幣)",
+      "isinCode": "T1679D",
+      "company": "群益投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "9.5127",
       "navDate": "20260821"
     },
     {
@@ -1056,50 +1100,6 @@
       "region": "境內",
       "currency": "TWD",
       "latestNav": "13.9",
-      "navDate": "20260821"
-    },
-    {
-      "fundCode": "DIOF5",
-      "fundName": "安聯AI收益成長多重資產基金-HB類型(月配息)-新臺幣(避險)",
-      "isinCode": "T3640E",
-      "company": "安聯投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "12.07",
-      "navDate": "20260821"
-    },
-    {
-      "fundCode": "DIODD",
-      "fundName": "柏瑞日本多重資產基金-A類型",
-      "isinCode": "T2140A",
-      "company": "柏瑞投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "11.4289",
-      "navDate": "20260821"
-    },
-    {
-      "fundCode": "DIODE",
-      "fundName": "柏瑞日本多重資產基金-B類型",
-      "isinCode": "T2140B",
-      "company": "柏瑞投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "10.879",
-      "navDate": "20260821"
-    },
-    {
-      "fundCode": "DIODF",
-      "fundName": "柏瑞日本多重資產基金-N類型",
-      "isinCode": "T2140C",
-      "company": "柏瑞投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "10.88",
       "navDate": "20260821"
     }
   ]
