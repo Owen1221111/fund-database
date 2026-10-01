@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-10-01T19:15:31.699812+08:00",
+  "lastUpdate": "2026-10-02T03:14:08.838305+08:00",
   "count": 100,
   "funds": [
     {
@@ -839,59 +839,59 @@
       "navDate": "20260930"
     },
     {
-      "fundCode": "ABACEADAUDH",
-      "fundName": "聯博-跨地域中國股票基金AD月配澳幣避險級別",
-      "isinCode": "LU2611183604",
-      "company": "聯博(盧森堡)公司/ALLIANCEBERNSTEIN (LUXEMBOURG) S. A. R. L.",
-      "type": "境外基金",
-      "region": "境外",
-      "currency": "USD",
-      "latestNav": "11.900000",
-      "navDate": "20260929"
+      "fundCode": "DIA01",
+      "fundName": "聯博投資等級債入息主動式ETF基金",
+      "isinCode": "00980D",
+      "company": "聯博投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "19.4",
+      "navDate": "20260930"
     },
     {
-      "fundCode": "ABACEADEURH",
-      "fundName": "聯博-跨地域中國股票基金AD月配歐元避險級別",
-      "isinCode": "LU2611183869",
-      "company": "聯博(盧森堡)公司/ALLIANCEBERNSTEIN (LUXEMBOURG) S. A. R. L.",
-      "type": "境外基金",
-      "region": "境外",
-      "currency": "USD",
-      "latestNav": "12.920000",
-      "navDate": "20260929"
+      "fundCode": "DIA02",
+      "fundName": "聯博優選全球非投資等級債券主動式ETF基金",
+      "isinCode": "00984D",
+      "company": "聯博投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "9.691",
+      "navDate": "20260930"
     },
     {
-      "fundCode": "ABACEADNZDH",
-      "fundName": "聯博-跨地域中國股票基金AD月配紐幣避險級別",
-      "isinCode": "LU2611184081",
-      "company": "聯博(盧森堡)公司/ALLIANCEBERNSTEIN (LUXEMBOURG) S. A. R. L.",
-      "type": "境外基金",
-      "region": "境外",
-      "currency": "USD",
-      "latestNav": "12.130000",
-      "navDate": "20260929"
+      "fundCode": "DDA01",
+      "fundName": "聯博台灣動能收益50 主動式ETF基金",
+      "isinCode": "00404A",
+      "company": "聯博投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "9.91",
+      "navDate": "20261001"
     },
     {
-      "fundCode": "ABACEADUSD",
-      "fundName": "聯博-跨地域中國股票基金AD月配級別美元",
-      "isinCode": "LU2611183430",
-      "company": "聯博(盧森堡)公司/ALLIANCEBERNSTEIN (LUXEMBOURG) S. A. R. L.",
-      "type": "境外基金",
-      "region": "境外",
-      "currency": "USD",
-      "latestNav": "14.070000",
-      "navDate": "20260929"
+      "fundCode": "DIO06",
+      "fundName": "聯博收益傘型基金之聯博債券收益組合基金-A2類型(新台幣)",
+      "isinCode": "T1810A",
+      "company": "聯博投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "10.69",
+      "navDate": "20260930"
     },
     {
-      "fundCode": "ABACEADZARH",
-      "fundName": "聯博-跨地域中國股票基金AD月配南非幣避險級別",
-      "isinCode": "LU2611185211",
-      "company": "聯博(盧森堡)公司/ALLIANCEBERNSTEIN (LUXEMBOURG) S. A. R. L.",
-      "type": "境外基金",
-      "region": "境外",
-      "currency": "USD",
-      "latestNav": "79.850000",
-      "navDate": "20260929"
+      "fundCode": "DIO07",
+      "fundName": "聯博收益傘型基金之聯博債券收益組合基金-AA類型(新台幣)",
+      "isinCode": "T1810B",
+      "company": "聯博投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "5.01",
+      "navDate": "20260930"
     },
     {
       "fundCode": "DIO34",
