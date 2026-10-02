@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-10-02T03:14:08.721165+08:00",
+  "lastUpdate": "2026-10-02T15:57:02.212433+08:00",
   "count": 10476,
   "funds": [
     {
@@ -24084,7 +24084,7 @@
     {
       "fundCode": "DDO29",
       "fundName": "永豐趨勢平衡基金-TISA類型",
-      "isinCode": "14706582B",
+      "isinCode": "T2507A",
       "company": "永豐投信",
       "type": "境內基金",
       "region": "境內",
@@ -34990,8 +34990,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "10.11",
-      "navDate": "20260930"
+      "latestNav": "10.21",
+      "navDate": "20261001"
     },
     {
       "fundCode": "DIA02",
