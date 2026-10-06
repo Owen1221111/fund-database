@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-10-06T19:36:10.760851+08:00",
+  "lastUpdate": "2026-10-07T03:17:13.353144+08:00",
   "count": 100,
   "funds": [
     {
@@ -674,6 +674,61 @@
       "navDate": "20261005"
     },
     {
+      "fundCode": "DIOC1",
+      "fundName": "第一金量化日本基金-新臺幣",
+      "isinCode": "T0366A",
+      "company": "第一金投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "14.51",
+      "navDate": "20261005"
+    },
+    {
+      "fundCode": "DIOC2",
+      "fundName": "第一金量化日本基金-日圓",
+      "isinCode": "T0366B",
+      "company": "第一金投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "JPY",
+      "latestNav": "157.07",
+      "navDate": "20261005"
+    },
+    {
+      "fundCode": "DIE07",
+      "fundName": "第一金美元優選收益非投資等級債券ETF基金",
+      "isinCode": "00981B",
+      "company": "第一金投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "8.9007",
+      "navDate": "20261005"
+    },
+    {
+      "fundCode": "DDA01",
+      "fundName": "第一金台股趨勢優選主動式ETF基金",
+      "isinCode": "00994A",
+      "company": "第一金投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "18.43",
+      "navDate": "20261006"
+    },
+    {
+      "fundCode": "DDA02",
+      "fundName": "第一金台股趨勢優股息主動式ETF基金",
+      "isinCode": "00408A",
+      "company": "第一金投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "11.12",
+      "navDate": "20261006"
+    },
+    {
       "fundCode": "DIOJ1",
       "fundName": "合庫入息優化多重資產基金-A類(累積型)台幣",
       "isinCode": "T4827A",
@@ -1045,61 +1100,6 @@
       "region": "境內",
       "currency": "TWD",
       "latestNav": "14.18",
-      "navDate": "20261005"
-    },
-    {
-      "fundCode": "DIOF5",
-      "fundName": "安聯AI收益成長多重資產基金-HB類型(月配息)-新臺幣(避險)",
-      "isinCode": "T3640E",
-      "company": "安聯投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "12.15",
-      "navDate": "20261005"
-    },
-    {
-      "fundCode": "DIODD",
-      "fundName": "柏瑞日本多重資產基金-A類型",
-      "isinCode": "T2140A",
-      "company": "大都會投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "11.5915",
-      "navDate": "20261005"
-    },
-    {
-      "fundCode": "DIODE",
-      "fundName": "柏瑞日本多重資產基金-B類型",
-      "isinCode": "T2140B",
-      "company": "大都會投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "10.8871",
-      "navDate": "20261005"
-    },
-    {
-      "fundCode": "DIODF",
-      "fundName": "柏瑞日本多重資產基金-N類型",
-      "isinCode": "T2140C",
-      "company": "大都會投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "10.8882",
-      "navDate": "20261005"
-    },
-    {
-      "fundCode": "DIODG",
-      "fundName": "柏瑞日本多重資產基金-N9類型",
-      "isinCode": "T2140D",
-      "company": "大都會投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "11.592",
       "navDate": "20261005"
     }
   ]
