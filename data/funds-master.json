@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-10-09T19:34:32.073732+08:00",
-  "count": 6037,
+  "lastUpdate": "2026-10-10T03:13:36.363977+08:00",
+  "count": 6033,
   "funds": [
     {
       "fundCode": "DIM01",
@@ -51175,17 +51175,6 @@
       "navDate": "20261007"
     },
     {
-      "fundCode": "LU1882445569",
-      "fundName": "東方匯理基金中國股票 A 歐元（未核備）",
-      "isinCode": "LU1882445569",
-      "company": "AMUNDI  LUXEMBOURG S.A.",
-      "type": "境外基金",
-      "region": "境外",
-      "currency": "EUR",
-      "latestNav": "-9999.000000",
-      "navDate": "20261002"
-    },
-    {
       "fundCode": "LU1882447425",
       "fundName": "東方匯理基金新興歐非中東股票 A 歐元",
       "isinCode": "LU1882447425",
@@ -55564,17 +55553,6 @@
       "navDate": "20261007"
     },
     {
-      "fundCode": "LU2404868577",
-      "fundName": "富達基金－新興市場債券基金 (Y股【F1穩定月配息】美元)",
-      "isinCode": "LU2404868577",
-      "company": "FIL INVESTMENT MANAGEMENT (LUXEMBOURG) S.À R.L.",
-      "type": "境外基金",
-      "region": "境外",
-      "currency": "USD",
-      "latestNav": "7.224000",
-      "navDate": "20261002"
-    },
-    {
       "fundCode": "LU2404868650",
       "fundName": "富達基金－歐洲小型企業基金 (Y股累計美元(美元/歐元 避險))",
       "isinCode": "LU2404868650",
@@ -55738,17 +55716,6 @@
       "currency": "USD",
       "latestNav": "8.698000",
       "navDate": "20261007"
-    },
-    {
-      "fundCode": "LU2425919763",
-      "fundName": "富達基金－全球非投資等級債券基金 (Y股【F1穩定月配息】美元)",
-      "isinCode": "LU2425919763",
-      "company": "FIL INVESTMENT MANAGEMENT (LUXEMBOURG) S.À R.L.",
-      "type": "境外基金",
-      "region": "境外",
-      "currency": "USD",
-      "latestNav": "8.472000",
-      "navDate": "20261002"
     },
     {
       "fundCode": "LU2425919847",
@@ -64474,17 +64441,6 @@
       "navDate": "20261007"
     },
     {
-      "fundCode": "TINCU",
-      "fundName": "匯豐環球投資基金-印度股票C穩定月配息美元",
-      "isinCode": "LU3081358882",
-      "company": "匯豐投資基金(盧森堡)股份有限公司/HSBC INVESTMENT FUNDS (LUXEMBOURG) S.A.",
-      "type": "境外基金",
-      "region": "境外",
-      "currency": "USD",
-      "latestNav": "-9999.000000",
-      "navDate": "20261002"
-    },
-    {
       "fundCode": "TINDA",
       "fundName": "匯豐環球投資基金-印度股票 AD",
       "isinCode": "LU0066902890",
@@ -66252,7 +66208,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "28.570000",
+      "latestNav": "28.720000",
       "navDate": ""
     },
     {
@@ -66263,7 +66219,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "23.810000",
+      "latestNav": "24.240000",
       "navDate": ""
     },
     {
@@ -66274,7 +66230,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "63.550000",
+      "latestNav": "71.420000",
       "navDate": ""
     },
     {
@@ -66285,7 +66241,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "35.940000",
+      "latestNav": "34.170000",
       "navDate": ""
     },
     {
@@ -66296,7 +66252,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "18.180000",
+      "latestNav": "18.010000",
       "navDate": ""
     },
     {
@@ -66307,7 +66263,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "45.560000",
+      "latestNav": "45.020000",
       "navDate": ""
     },
     {
@@ -66318,7 +66274,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "31.800000",
+      "latestNav": "33.720000",
       "navDate": ""
     },
     {
@@ -66329,7 +66285,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "10.650000",
+      "latestNav": "9.970000",
       "navDate": ""
     },
     {
@@ -66340,7 +66296,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "20.470000",
+      "latestNav": "20.520000",
       "navDate": ""
     },
     {
@@ -66351,7 +66307,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "21.240000",
+      "latestNav": "21.340000",
       "navDate": ""
     },
     {
@@ -66362,7 +66318,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "15.320000",
+      "latestNav": "15.290000",
       "navDate": ""
     },
     {
@@ -66373,7 +66329,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "20.280000",
+      "latestNav": "20.090000",
       "navDate": ""
     },
     {
@@ -66384,7 +66340,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "31.260000",
+      "latestNav": "31.420000",
       "navDate": ""
     },
     {
@@ -66395,7 +66351,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "81.260000",
+      "latestNav": "79.370000",
       "navDate": ""
     },
     {
@@ -66406,7 +66362,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "53.930000",
+      "latestNav": "51.030000",
       "navDate": ""
     }
   ]
