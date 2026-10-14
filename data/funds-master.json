@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-10-14T04:02:27.972184+08:00",
-  "count": 9515,
+  "lastUpdate": "2026-10-14T15:06:33.115777+08:00",
+  "count": 9528,
   "funds": [
     {
       "fundCode": "DDA01",
@@ -5104,6 +5104,149 @@
       "region": "境內",
       "currency": "USD",
       "latestNav": "10.03",
+      "navDate": "20261012"
+    },
+    {
+      "fundCode": "DIO12",
+      "fundName": "瀚亞全球非投資等級債券基金A類型-新臺幣",
+      "isinCode": "T0737A",
+      "company": "瀚亞投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "14.2943",
+      "navDate": "20261012"
+    },
+    {
+      "fundCode": "DIO13",
+      "fundName": "瀚亞全球非投資等級債券基金B類型-新臺幣",
+      "isinCode": "T0737B",
+      "company": "瀚亞投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "6.9244",
+      "navDate": "20261012"
+    },
+    {
+      "fundCode": "DIO20",
+      "fundName": "瀚亞全球非投資等級債券基金C類型-新臺幣",
+      "isinCode": "T0737C",
+      "company": "瀚亞投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "5.9479",
+      "navDate": "20261012"
+    },
+    {
+      "fundCode": "DIO22",
+      "fundName": "瀚亞全球非投資等級債券基金A類型-美元",
+      "isinCode": "T0737D",
+      "company": "瀚亞投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "USD",
+      "latestNav": "12.7343",
+      "navDate": "20261012"
+    },
+    {
+      "fundCode": "DIO23",
+      "fundName": "瀚亞全球非投資等級債券基金B類型-美元",
+      "isinCode": "T0737E",
+      "company": "瀚亞投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "USD",
+      "latestNav": "5.7709",
+      "navDate": "20261012"
+    },
+    {
+      "fundCode": "DIO24",
+      "fundName": "瀚亞全球非投資等級債券基金A類型-澳幣",
+      "isinCode": "T0737F",
+      "company": "瀚亞投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "AUD",
+      "latestNav": "12.0477",
+      "navDate": "20261012"
+    },
+    {
+      "fundCode": "DIO25",
+      "fundName": "瀚亞全球非投資等級債券基金B類型-澳幣",
+      "isinCode": "T0737G",
+      "company": "瀚亞投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "AUD",
+      "latestNav": "4.5214",
+      "navDate": "20261012"
+    },
+    {
+      "fundCode": "DIO26",
+      "fundName": "瀚亞全球非投資等級債券基金A類型-人民幣",
+      "isinCode": "T0737H",
+      "company": "瀚亞投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "CNY",
+      "latestNav": "12.4366",
+      "navDate": "20261012"
+    },
+    {
+      "fundCode": "DIO27",
+      "fundName": "瀚亞全球非投資等級債券基金B類型-人民幣",
+      "isinCode": "T0737J",
+      "company": "瀚亞投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "CNY",
+      "latestNav": "4.1355",
+      "navDate": "20261012"
+    },
+    {
+      "fundCode": "DIO87",
+      "fundName": "瀚亞全球非投資等級債券基金S類型-新臺幣",
+      "isinCode": "T0737K",
+      "company": "瀚亞投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "6.1801",
+      "navDate": "20261012"
+    },
+    {
+      "fundCode": "DIO88",
+      "fundName": "瀚亞全球非投資等級債券基金S類型-美元",
+      "isinCode": "T0737L",
+      "company": "瀚亞投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "USD",
+      "latestNav": "6.7645",
+      "navDate": "20261012"
+    },
+    {
+      "fundCode": "DIO89",
+      "fundName": "瀚亞全球非投資等級債券基金S類型-人民幣",
+      "isinCode": "T0737M",
+      "company": "瀚亞投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "CNY",
+      "latestNav": "5.1006",
+      "navDate": "20261012"
+    },
+    {
+      "fundCode": "DIOD6",
+      "fundName": "瀚亞全球非投資等級債券基金IA類型-新臺幣",
+      "isinCode": "T0737N",
+      "company": "瀚亞投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "11.5584",
       "navDate": "20261012"
     },
     {
@@ -27334,8 +27477,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "10.09",
-      "navDate": "20261012"
+      "latestNav": "10.13",
+      "navDate": "20261013"
     },
     {
       "fundCode": "DIA02",
@@ -27345,8 +27488,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "9.86",
-      "navDate": "20261012"
+      "latestNav": "9.7",
+      "navDate": "20261013"
     },
     {
       "fundCode": "DIO56",
