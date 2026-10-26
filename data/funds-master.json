@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-10-26T18:38:28.146119+08:00",
-  "count": 6048,
+  "lastUpdate": "2026-10-27T03:42:04.700092+08:00",
+  "count": 6043,
   "funds": [
     {
       "fundCode": "DIM01",
@@ -18868,17 +18868,6 @@
       "navDate": "20261020"
     },
     {
-      "fundCode": "BE0944666800C",
-      "fundName": "KBC印度基金",
-      "isinCode": "BE0944666800",
-      "company": "比利時聯合資產管理公司/KBC ASSET MANAGEMENT N.V.",
-      "type": "境外基金",
-      "region": "境外",
-      "currency": "USD",
-      "latestNav": "2148.580000",
-      "navDate": "20261019"
-    },
-    {
       "fundCode": "BE6260699283C",
       "fundName": "KBC SRI新興市場基金(未核備)",
       "isinCode": "BE6260699283",
@@ -24247,17 +24236,6 @@
       "navDate": "20261021"
     },
     {
-      "fundCode": "EDR03",
-      "fundName": "愛德蒙得洛希爾印度基金 (A 歐元)",
-      "isinCode": "FR0010479931",
-      "company": "愛德蒙得洛希爾資產管理公司(法國) / EDMOND DE ROTHSCHILD ASSET MANAGEMENT (FRANCE)",
-      "type": "境外基金",
-      "region": "境外",
-      "currency": "EUR",
-      "latestNav": "470.840000",
-      "navDate": "20261019"
-    },
-    {
       "fundCode": "EDR11",
       "fundName": "愛德蒙得洛希爾環球黃金基金 A 美元",
       "isinCode": "FR0010657890",
@@ -24278,17 +24256,6 @@
       "currency": "EUR",
       "latestNav": "310.900000",
       "navDate": "20261020"
-    },
-    {
-      "fundCode": "EDR16",
-      "fundName": "愛德蒙得洛希爾印度基金 (A 美元)",
-      "isinCode": "FR0010998153",
-      "company": "愛德蒙得洛希爾資產管理公司(法國) / EDMOND DE ROTHSCHILD ASSET MANAGEMENT (FRANCE)",
-      "type": "境外基金",
-      "region": "境外",
-      "currency": "USD",
-      "latestNav": "187.880000",
-      "navDate": "20261019"
     },
     {
       "fundCode": "EDR21",
@@ -46685,28 +46652,6 @@
       "currency": "USD",
       "latestNav": "456.720000",
       "navDate": "20261020"
-    },
-    {
-      "fundCode": "LU0823428932",
-      "fundName": "法巴印度股票基金 C (美元)",
-      "isinCode": "LU0823428932",
-      "company": "法國巴黎資產管理盧森堡公司/BNP PARIBAS ASSET MANAGEMENT LUXEMBOURG",
-      "type": "境外基金",
-      "region": "境外",
-      "currency": "USD",
-      "latestNav": "193.250000",
-      "navDate": "20261019"
-    },
-    {
-      "fundCode": "LU0823429237",
-      "fundName": "法巴印度股票基金 I (美元)",
-      "isinCode": "LU0823429237",
-      "company": "法國巴黎資產管理盧森堡公司/BNP PARIBAS ASSET MANAGEMENT LUXEMBOURG",
-      "type": "境外基金",
-      "region": "境外",
-      "currency": "USD",
-      "latestNav": "396.350000",
-      "navDate": "20261019"
     },
     {
       "fundCode": "LU0823434583",
