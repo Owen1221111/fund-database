@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-10-29T03:18:16.144126+08:00",
+  "lastUpdate": "2026-10-29T16:02:23.263844+08:00",
   "count": 10509,
   "funds": [
     {
@@ -35221,8 +35221,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "9.72",
-      "navDate": "20261027"
+      "latestNav": "9.82",
+      "navDate": "20261028"
     },
     {
       "fundCode": "DIA02",
@@ -35232,8 +35232,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "8.72",
-      "navDate": "20261027"
+      "latestNav": "9.1",
+      "navDate": "20261028"
     },
     {
       "fundCode": "DIO56",
