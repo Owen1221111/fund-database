@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-10-30T19:05:45.870445+08:00",
-  "count": 10396,
+  "lastUpdate": "2026-10-31T02:57:28.879654+08:00",
+  "count": 10502,
   "funds": [
     {
       "fundCode": "DIE02",
@@ -22784,6 +22784,391 @@
       "navDate": "20261029"
     },
     {
+      "fundCode": "DDA01",
+      "fundName": "復華台灣未來50主動式ETF基金",
+      "isinCode": "00991A",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "16.17",
+      "navDate": "20261030"
+    },
+    {
+      "fundCode": "DIA01",
+      "fundName": "復華全球金融股票入息主動式ETF基金",
+      "isinCode": "00998A",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "16.28",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIA02",
+      "fundName": "復華全球金融債券入息主動式ETF基金",
+      "isinCode": "00986D",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "14.3",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIA03",
+      "fundName": "復華全球未來50主動式ETF基金",
+      "isinCode": "00409A",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "8.96",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DDO18",
+      "fundName": "復華台灣菁英50指數基金",
+      "isinCode": "T22D1Y",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "9.6",
+      "navDate": "20261030"
+    },
+    {
+      "fundCode": "DIO82",
+      "fundName": "復華全球創新金融指數基金-新臺幣",
+      "isinCode": "T22D3A",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "10.22",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO83",
+      "fundName": "復華全球創新金融指數基金-美元",
+      "isinCode": "T22D3B",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "USD",
+      "latestNav": "10.01",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO80",
+      "fundName": "復華全球AI動力成長指數基金-新臺幣",
+      "isinCode": "T22D2A",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "10.46",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO81",
+      "fundName": "復華全球AI動力成長指數基金-美元",
+      "isinCode": "T22D2B",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "USD",
+      "latestNav": "10.25",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DDA02",
+      "fundName": "復華台灣新星主動式ETF基金",
+      "isinCode": "00418A",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "9.99",
+      "navDate": "20261030"
+    },
+    {
+      "fundCode": "DIO09",
+      "fundName": "復華全球大趨勢基金-新臺幣",
+      "isinCode": "T2252Y",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "68.68",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO42",
+      "fundName": "復華全球大趨勢基金-美元",
+      "isinCode": "T2252A",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "USD",
+      "latestNav": "42.03",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO10",
+      "fundName": "復華華人世紀基金",
+      "isinCode": "T2260Y",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "63.63",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO01",
+      "fundName": "復華全球債券基金",
+      "isinCode": "T2211Y",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "14.5227",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DDO10",
+      "fundName": "復華人生目標基金",
+      "isinCode": "T2212Y",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "138.6846",
+      "navDate": "20261030"
+    },
+    {
+      "fundCode": "DDO04",
+      "fundName": "復華傳家基金",
+      "isinCode": "T2206Y",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "85.2232",
+      "navDate": "20261030"
+    },
+    {
+      "fundCode": "DDM02",
+      "fundName": "復華有利貨幣市場基金",
+      "isinCode": "T2207Y",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "14.3567",
+      "navDate": "20261030"
+    },
+    {
+      "fundCode": "DDO06",
+      "fundName": "復華數位經濟基金",
+      "isinCode": "T2208Y",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "151.32",
+      "navDate": "20261030"
+    },
+    {
+      "fundCode": "DDO07",
+      "fundName": "復華傳家二號基金",
+      "isinCode": "T2209Y",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "125.2357",
+      "navDate": "20261030"
+    },
+    {
+      "fundCode": "DDO08",
+      "fundName": "復華中小精選基金",
+      "isinCode": "T2210Y",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "407",
+      "navDate": "20261030"
+    },
+    {
+      "fundCode": "DDO12",
+      "fundName": "復華全方位基金A類型",
+      "isinCode": "T2216Y",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "180.16",
+      "navDate": "20261030"
+    },
+    {
+      "fundCode": "DDO17",
+      "fundName": "復華全方位基金TISA類型",
+      "isinCode": "T2216A",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "21.44",
+      "navDate": "20261030"
+    },
+    {
+      "fundCode": "DIO11",
+      "fundName": "復華全球短期收益基金-新臺幣",
+      "isinCode": "T2263Y",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "13.2734",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO43",
+      "fundName": "復華全球短期收益基金-美元",
+      "isinCode": "T2263A",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "USD",
+      "latestNav": "11.1142",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO13",
+      "fundName": "復華高益策略組合基金",
+      "isinCode": "T2265Y",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "14.13",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO14",
+      "fundName": "復華全球原物料基金",
+      "isinCode": "T2269Y",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "12.54",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO15",
+      "fundName": "復華新興債股動力組合基金-新臺幣",
+      "isinCode": "T2270Y",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "15.79",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO44",
+      "fundName": "復華新興債股動力組合基金-美元",
+      "isinCode": "T2270A",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "USD",
+      "latestNav": "-",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO16",
+      "fundName": "復華大中華中小策略基金",
+      "isinCode": "T2271Y",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "19.17",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO17",
+      "fundName": "復華新興市場短期收益基金",
+      "isinCode": "T2274Y",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "12.44",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO18",
+      "fundName": "復華新興市場非投資等級債券基金-新臺幣A",
+      "isinCode": "T2275A",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "9.97",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO19",
+      "fundName": "復華新興市場非投資等級債券基金-新臺幣B",
+      "isinCode": "T2275B",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "3.97",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO32",
+      "fundName": "復華新興市場非投資等級債券基金-南非幣配息",
+      "isinCode": "T2275C",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "ZAR",
+      "latestNav": "9.4",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO33",
+      "fundName": "復華新興市場非投資等級債券基金-人民幣配息",
+      "isinCode": "T2275D",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "CNY",
+      "latestNav": "8.82",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO20",
+      "fundName": "復華東協世紀基金",
+      "isinCode": "T2278Y",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "20.12",
+      "navDate": "20261029"
+    },
+    {
       "fundCode": "DIE01",
       "fundName": "復華滬深300 A股基金",
       "isinCode": "006207",
@@ -22791,7 +23176,172 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
+      "latestNav": "29.23",
+      "navDate": "20261030"
+    },
+    {
+      "fundCode": "DIO22",
+      "fundName": "復華南非幣短期收益基金A",
+      "isinCode": "T2280A",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "ZAR",
+      "latestNav": "24.12",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO23",
+      "fundName": "復華南非幣短期收益基金B",
+      "isinCode": "T2280B",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "ZAR",
+      "latestNav": "9.53",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO24",
+      "fundName": "復華南非幣長期收益基金A",
+      "isinCode": "T2281A",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "ZAR",
       "latestNav": "29.55",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO25",
+      "fundName": "復華南非幣長期收益基金B",
+      "isinCode": "T2281B",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "ZAR",
+      "latestNav": "9.17",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO28",
+      "fundName": "復華全球消費基金-新臺幣",
+      "isinCode": "T2286Y",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "23.12",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO45",
+      "fundName": "復華全球消費基金-美元",
+      "isinCode": "T2286A",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "USD",
+      "latestNav": "-",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO29",
+      "fundName": "復華美國新星基金-新臺幣",
+      "isinCode": "T2287Y",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "34.44",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO46",
+      "fundName": "復華美國新星基金-美元",
+      "isinCode": "T2287A",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "USD",
+      "latestNav": "32.64",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO31",
+      "fundName": "復華全球戰略配置強基金-新臺幣",
+      "isinCode": "T2289Y",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "19.61",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO47",
+      "fundName": "復華全球戰略配置強基金-美元",
+      "isinCode": "T2289A",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "USD",
+      "latestNav": "17.54",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO34",
+      "fundName": "復華中國新經濟平衡基金-新臺幣",
+      "isinCode": "T2291A",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "15.48",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO35",
+      "fundName": "復華中國新經濟平衡基金-人民幣A",
+      "isinCode": "T2291B",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "CNY",
+      "latestNav": "17.91",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO36",
+      "fundName": "復華中國新經濟平衡基金-人民幣B",
+      "isinCode": "T2291C",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "CNY",
+      "latestNav": "13.76",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO37",
+      "fundName": "復華中國新經濟A股基金-新臺幣",
+      "isinCode": "T2292A",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "10.17",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO38",
+      "fundName": "復華中國新經濟A股基金-人民幣",
+      "isinCode": "T2292B",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "CNY",
+      "latestNav": "10.49",
       "navDate": "20261029"
     },
     {
@@ -22802,8 +23352,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "14.26",
-      "navDate": "20261029"
+      "latestNav": "14.6",
+      "navDate": "20261030"
     },
     {
       "fundCode": "DIE04",
@@ -22813,7 +23363,491 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "5.72",
+      "latestNav": "5.66",
+      "navDate": "20261030"
+    },
+    {
+      "fundCode": "DIO48",
+      "fundName": "復華全球物聯網科技基金-新臺幣",
+      "isinCode": "T2294A",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "74.47",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO49",
+      "fundName": "復華全球物聯網科技基金-美元",
+      "isinCode": "T2294B",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "USD",
+      "latestNav": "74.11",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DDO13",
+      "fundName": "復華台灣智能基金",
+      "isinCode": "T2295Y",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "44.18",
+      "navDate": "20261030"
+    },
+    {
+      "fundCode": "DIE05",
+      "fundName": "復華1至5年期非投資等級債券基金",
+      "isinCode": "00710B",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "18.89",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIE07",
+      "fundName": "復華富時不動產證券化基金",
+      "isinCode": "00712",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "7.22",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIE06",
+      "fundName": "復華新興市場10年期以上債券基金",
+      "isinCode": "00711B",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "15.43",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO04",
+      "fundName": "復華亞太平衡基金",
+      "isinCode": "T2217Y",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "32.08",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO05",
+      "fundName": "復華全球債券組合基金",
+      "isinCode": "T2218Y",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "16.43",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO06",
+      "fundName": "復華亞太成長基金",
+      "isinCode": "T2219Y",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "39.18",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO07",
+      "fundName": "復華全球資產證券化基金-新臺幣A",
+      "isinCode": "T2201A",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "22.92",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO12",
+      "fundName": "復華全球資產證券化基金-新臺幣B",
+      "isinCode": "T2201B",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "12.81",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO40",
+      "fundName": "復華全球資產證券化基金-美元",
+      "isinCode": "T2201C",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "USD",
+      "latestNav": "-",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO08",
+      "fundName": "復華奧林匹克全球優勢組合基金-新臺幣A",
+      "isinCode": "T2202Y",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "26.42",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO41",
+      "fundName": "復華奧林匹克全球優勢組合基金-美元",
+      "isinCode": "T2202A",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "USD",
+      "latestNav": "21.09",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO50",
+      "fundName": "復華奧林匹克全球優勢組合基金-新臺幣B",
+      "isinCode": "T2202B",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "12.15",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO51",
+      "fundName": "復華亞太神龍科技基金-新臺幣",
+      "isinCode": "T2298A",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "44.8",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO52",
+      "fundName": "復華亞太神龍科技基金-美元",
+      "isinCode": "T2298B",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "USD",
+      "latestNav": "40.12",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DDE01",
+      "fundName": "復華富時台灣高股息低波動基金",
+      "isinCode": "00731",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "102.45",
+      "navDate": "20261030"
+    },
+    {
+      "fundCode": "DIE10",
+      "fundName": "復華15年期以上製藥業債券ETF基金",
+      "isinCode": "00759B",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "53.73",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIE09",
+      "fundName": "復華15年期以上能源業債券ETF基金",
+      "isinCode": "00758B",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "51.23",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIE11",
+      "fundName": "復華新興市場企業債券ETF基金",
+      "isinCode": "00760B",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "52.11",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO56",
+      "fundName": "復華十年到期新興市場債券基金(新臺幣)",
+      "isinCode": "T22A5A",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "7.44",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO57",
+      "fundName": "復華十年到期新興市場債券基金(美元)",
+      "isinCode": "T22A5B",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "USD",
+      "latestNav": "7.05",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO58",
+      "fundName": "復華十年到期新興市場債券基金(人民幣)",
+      "isinCode": "T22A5C",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "CNY",
+      "latestNav": "6.75",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DDM01",
+      "fundName": "復華貨幣市場基金",
+      "isinCode": "T2204Y",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "15.3738",
+      "navDate": "20261030"
+    },
+    {
+      "fundCode": "DDO03",
+      "fundName": "復華高成長基金",
+      "isinCode": "T2205Y",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "411.74",
+      "navDate": "20261030"
+    },
+    {
+      "fundCode": "DIE13",
+      "fundName": "復華美國20年期以上公債ETF基金",
+      "isinCode": "00768B",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "48.9612",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIE17",
+      "fundName": "復華1至5年期美元特選信用債券ETF基金",
+      "isinCode": "00791B",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "57.221",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIE15",
+      "fundName": "復華20年期以上A3級以上公司債券ETF基金",
+      "isinCode": "00789B",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "46.1469",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO62",
+      "fundName": "復華十年到期精選新興市場債券基金(新臺幣)",
+      "isinCode": "T22A7A",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "7.36",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO63",
+      "fundName": "復華十年到期精選新興市場債券基金(美元)",
+      "isinCode": "T22A7B",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "USD",
+      "latestNav": "7.11",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO64",
+      "fundName": "復華十年到期精選新興市場債券基金(人民幣)",
+      "isinCode": "T22A7C",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "CNY",
+      "latestNav": "6.73",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO69",
+      "fundName": "復華美元非投資等級債券指數基金-新臺幣A",
+      "isinCode": "T22B1A",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "12.8",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO70",
+      "fundName": "復華美元非投資等級債券指數基金-新臺幣B",
+      "isinCode": "T22B1B",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "10.15",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO71",
+      "fundName": "復華美元非投資等級債券指數基金-美元",
+      "isinCode": "T22B1C",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "USD",
+      "latestNav": "12.38",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO67",
+      "fundName": "復華5至10年期投資等級債券指數基金-新臺幣",
+      "isinCode": "T22A9A",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "9.86",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO68",
+      "fundName": "復華5至10年期投資等級債券指數基金-美元",
+      "isinCode": "T22A9B",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "USD",
+      "latestNav": "9.5",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO65",
+      "fundName": "復華已開發國家300股票指數基金-新臺幣",
+      "isinCode": "T22A8A",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "27.25",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO66",
+      "fundName": "復華已開發國家300股票指數基金-美元",
+      "isinCode": "T22A8B",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "USD",
+      "latestNav": "26.32",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO72",
+      "fundName": "復華美國標普500低波動指數基金",
+      "isinCode": "T22B5Y",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "15.32",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO75",
+      "fundName": "復華新興亞洲3至10年期美元債券指數基金-新臺幣",
+      "isinCode": "T22B7A",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "10.5",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO76",
+      "fundName": "復華新興亞洲3至10年期美元債券指數基金-美元",
+      "isinCode": "T22B7B",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "USD",
+      "latestNav": "9.81",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO73",
+      "fundName": "復華新興市場3年期以上美元主權及類主權債券指數基金-新臺幣",
+      "isinCode": "T22B6A",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "10.85",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO74",
+      "fundName": "復華新興市場3年期以上美元主權及類主權債券指數基金-美元",
+      "isinCode": "T22B6B",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "USD",
+      "latestNav": "10.16",
       "navDate": "20261029"
     },
     {
@@ -22824,8 +23858,96 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "26.85",
+      "latestNav": "25.24",
+      "navDate": "20261030"
+    },
+    {
+      "fundCode": "DDO01",
+      "fundName": "復華復華基金",
+      "isinCode": "T2203Y",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "115.54",
+      "navDate": "20261030"
+    },
+    {
+      "fundCode": "DDO14",
+      "fundName": "復華台灣好收益基金",
+      "isinCode": "T22C2Y",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "15.29",
+      "navDate": "20261030"
+    },
+    {
+      "fundCode": "DIE19",
+      "fundName": "復華美國標普500成長ETF基金",
+      "isinCode": "00924",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "33.48",
       "navDate": "20261029"
+    },
+    {
+      "fundCode": "DDE02",
+      "fundName": "復華台灣科技優息ETF基金",
+      "isinCode": "00929",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "27.67",
+      "navDate": "20261030"
+    },
+    {
+      "fundCode": "DIO78",
+      "fundName": "復華三至八年機動到期A級債券美元基金",
+      "isinCode": "T22C6Y",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "USD",
+      "latestNav": "11.3158",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO79",
+      "fundName": "復華三至八年機動到期A級債券台幣基金",
+      "isinCode": "T22C7Y",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "11.4204",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DDO15",
+      "fundName": "復華台灣科技高股息基金A類型",
+      "isinCode": "T22C8A",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "17.37",
+      "navDate": "20261030"
+    },
+    {
+      "fundCode": "DDO16",
+      "fundName": "復華台灣科技高股息基金B類型",
+      "isinCode": "T22C8B",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "15.15",
+      "navDate": "20261030"
     },
     {
       "fundCode": "DIE20",
@@ -22835,7 +23957,51 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "22.41",
+      "latestNav": "22.32",
+      "navDate": "20261030"
+    },
+    {
+      "fundCode": "DIO02",
+      "fundName": "復華全球平衡基金-新臺幣",
+      "isinCode": "T2213Y",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "50.6",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DIO39",
+      "fundName": "復華全球平衡基金-美元",
+      "isinCode": "T2213A",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "USD",
+      "latestNav": "23.4",
+      "navDate": "20261029"
+    },
+    {
+      "fundCode": "DDO11",
+      "fundName": "復華神盾基金",
+      "isinCode": "T2214Y",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "99.5567",
+      "navDate": "20261030"
+    },
+    {
+      "fundCode": "DIO03",
+      "fundName": "復華奧林匹克全球組合基金",
+      "isinCode": "T2215Y",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "19.34",
       "navDate": "20261029"
     },
     {
@@ -114201,7 +115367,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "29.610000",
+      "latestNav": "29.530000",
       "navDate": ""
     },
     {
@@ -114212,7 +115378,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "23.570000",
+      "latestNav": "23.420000",
       "navDate": ""
     },
     {
@@ -114223,7 +115389,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "65.260000",
+      "latestNav": "71.050000",
       "navDate": ""
     },
     {
@@ -114234,7 +115400,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "34.610000",
+      "latestNav": "34.190000",
       "navDate": ""
     },
     {
@@ -114245,7 +115411,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "17.070000",
+      "latestNav": "17.120000",
       "navDate": ""
     },
     {
@@ -114256,7 +115422,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "42.790000",
+      "latestNav": "42.970000",
       "navDate": ""
     },
     {
@@ -114267,7 +115433,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "31.040000",
+      "latestNav": "31.930000",
       "navDate": ""
     },
     {
@@ -114278,7 +115444,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "10.780000",
+      "latestNav": "10.510000",
       "navDate": ""
     },
     {
@@ -114289,7 +115455,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "21.020000",
+      "latestNav": "21.180000",
       "navDate": ""
     },
     {
@@ -114300,7 +115466,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "22.400000",
+      "latestNav": "22.720000",
       "navDate": ""
     },
     {
@@ -114311,7 +115477,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "14.930000",
+      "latestNav": "14.830000",
       "navDate": ""
     },
     {
@@ -114322,7 +115488,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "19.300000",
+      "latestNav": "19.100000",
       "navDate": ""
     },
     {
@@ -114333,7 +115499,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "32.090000",
+      "latestNav": "32.280000",
       "navDate": ""
     },
     {
@@ -114344,7 +115510,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "71.580000",
+      "latestNav": "72.170000",
       "navDate": ""
     },
     {
@@ -114355,7 +115521,7 @@
       "type": "期信基金",
       "region": "境外",
       "currency": "TWD",
-      "latestNav": "47.670000",
+      "latestNav": "48.200000",
       "navDate": ""
     }
   ]
