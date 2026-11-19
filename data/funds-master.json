@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-11-19T05:41:58.176317+08:00",
-  "count": 10503,
+  "lastUpdate": "2026-11-19T17:54:23.544212+08:00",
+  "count": 10518,
   "funds": [
     {
       "fundCode": "DIE02",
@@ -35298,8 +35298,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "8.48",
-      "navDate": "20261117"
+      "latestNav": "8.6",
+      "navDate": "20261118"
     },
     {
       "fundCode": "DIA02",
@@ -35309,8 +35309,8 @@
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "7.09",
-      "navDate": "20261117"
+      "latestNav": "7.16",
+      "navDate": "20261118"
     },
     {
       "fundCode": "DIO56",
@@ -115534,6 +115534,171 @@
       "currency": "USD",
       "latestNav": "10.643000",
       "navDate": "20261117"
+    },
+    {
+      "fundCode": "00674R",
+      "fundName": "元大標普油金傘型期貨信託基金之元大標普高盛黃金ER單日反向1倍指數股票型期貨信託基金",
+      "isinCode": "",
+      "company": "",
+      "type": "期信基金",
+      "region": "境外",
+      "currency": "TWD",
+      "latestNav": "29.920000",
+      "navDate": ""
+    },
+    {
+      "fundCode": "00693U",
+      "fundName": "街口標普高盛黃豆ER指數股票型期貨信託基金",
+      "isinCode": "",
+      "company": "",
+      "type": "期信基金",
+      "region": "境外",
+      "currency": "TWD",
+      "latestNav": "22.880000",
+      "navDate": ""
+    },
+    {
+      "fundCode": "00715L",
+      "fundName": "街口標普高盛布蘭特原油ER單日正向2倍指數股票型期貨信託基金",
+      "isinCode": "",
+      "company": "",
+      "type": "期信基金",
+      "region": "境外",
+      "currency": "TWD",
+      "latestNav": "80.520000",
+      "navDate": ""
+    },
+    {
+      "fundCode": "00763U",
+      "fundName": "街口道瓊銅ER指數股票型期貨信託基金",
+      "isinCode": "",
+      "company": "",
+      "type": "期信基金",
+      "region": "境外",
+      "currency": "TWD",
+      "latestNav": "34.710000",
+      "navDate": ""
+    },
+    {
+      "fundCode": "TT502Y",
+      "fundName": "元大黃金期貨信託基金",
+      "isinCode": "",
+      "company": "",
+      "type": "期信基金",
+      "region": "境外",
+      "currency": "TWD",
+      "latestNav": "16.890000",
+      "navDate": ""
+    },
+    {
+      "fundCode": "00635U",
+      "fundName": "元大標普高盛黃金ER指數股票型期貨信託基金",
+      "isinCode": "",
+      "company": "",
+      "type": "期信基金",
+      "region": "境外",
+      "currency": "TWD",
+      "latestNav": "42.440000",
+      "navDate": ""
+    },
+    {
+      "fundCode": "00642U",
+      "fundName": "元大標普高盛原油ER指數股票型期貨信託基金",
+      "isinCode": "",
+      "company": "",
+      "type": "期信基金",
+      "region": "境外",
+      "currency": "TWD",
+      "latestNav": "34.320000",
+      "navDate": ""
+    },
+    {
+      "fundCode": "00673R",
+      "fundName": "元大標普油金傘型期貨信託基金之元大標普高盛原油ER單日反向1倍指數股票型期貨信託基金",
+      "isinCode": "",
+      "company": "",
+      "type": "期信基金",
+      "region": "境外",
+      "currency": "TWD",
+      "latestNav": "9.900000",
+      "navDate": ""
+    },
+    {
+      "fundCode": "00682U",
+      "fundName": "元大標普美元指數傘型期貨信託基金之元大標普美元ER指數股票型期貨信託基金",
+      "isinCode": "",
+      "company": "",
+      "type": "期信基金",
+      "region": "境外",
+      "currency": "TWD",
+      "latestNav": "21.120000",
+      "navDate": ""
+    },
+    {
+      "fundCode": "00683L",
+      "fundName": "元大標普美元指數傘型期貨信託基金之元大標普美元ER單日正向2倍指數股票型期貨信託基金",
+      "isinCode": "",
+      "company": "",
+      "type": "期信基金",
+      "region": "境外",
+      "currency": "TWD",
+      "latestNav": "22.590000",
+      "navDate": ""
+    },
+    {
+      "fundCode": "00684R",
+      "fundName": "元大標普美元指數傘型期貨信託基金之元大標普美元ER單日反向1倍指數股票型期貨信託基金",
+      "isinCode": "",
+      "company": "",
+      "type": "期信基金",
+      "region": "境外",
+      "currency": "TWD",
+      "latestNav": "14.900000",
+      "navDate": ""
+    },
+    {
+      "fundCode": "00706L",
+      "fundName": "元大標普金日傘型期貨信託基金之元大標普日圓ER單日正向2倍指數股票型期貨信託基金",
+      "isinCode": "",
+      "company": "",
+      "type": "期信基金",
+      "region": "境外",
+      "currency": "TWD",
+      "latestNav": "19.080000",
+      "navDate": ""
+    },
+    {
+      "fundCode": "00707R",
+      "fundName": "元大標普金日傘型期貨信託基金之元大標普日圓ER單日反向1倍指數股票型期貨信託基金",
+      "isinCode": "",
+      "company": "",
+      "type": "期信基金",
+      "region": "境外",
+      "currency": "TWD",
+      "latestNav": "32.400000",
+      "navDate": ""
+    },
+    {
+      "fundCode": "00708L",
+      "fundName": "元大標普金日傘型期貨信託基金之元大標普高盛黃金ER單日正向2倍指數股票型期貨信託基金",
+      "isinCode": "",
+      "company": "",
+      "type": "期信基金",
+      "region": "境外",
+      "currency": "TWD",
+      "latestNav": "70.330000",
+      "navDate": ""
+    },
+    {
+      "fundCode": "00738U",
+      "fundName": "元大道瓊白銀ER指數股票型期貨信託基金",
+      "isinCode": "",
+      "company": "",
+      "type": "期信基金",
+      "region": "境外",
+      "currency": "TWD",
+      "latestNav": "45.800000",
+      "navDate": ""
     }
   ]
 }
