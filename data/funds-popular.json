@@ -1,60 +1,60 @@
 {
-  "lastUpdate": "2026-11-23T18:18:55.764742+08:00",
+  "lastUpdate": "2026-11-23T23:31:03.474998+08:00",
   "count": 100,
   "funds": [
     {
-      "fundCode": "DIE06",
-      "fundName": "元大標智滬深300基金",
-      "isinCode": "0061",
+      "fundCode": "DIE31",
+      "fundName": "元大全球航太與防衛科技ETF基金",
+      "isinCode": "00965",
       "company": "元大投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "21.85",
+      "latestNav": "20.68",
       "navDate": "20261120"
     },
     {
-      "fundCode": "DIE07",
-      "fundName": "元大上證50基金",
-      "isinCode": "006206",
+      "fundCode": "DIE32",
+      "fundName": "元大優息10年期以上美國政府債券ETF基金",
+      "isinCode": "00967B",
       "company": "元大投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "37.5",
+      "latestNav": "9.1264",
       "navDate": "20261120"
     },
     {
-      "fundCode": "DIE02",
-      "fundName": "元大滬深300單日反向1倍基金",
-      "isinCode": "00638R",
+      "fundCode": "DIE34",
+      "fundName": "元大零息超長期美國政府債券ETF基金",
+      "isinCode": "00969B",
       "company": "元大投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "7.7",
+      "latestNav": "8.3408",
       "navDate": "20261120"
     },
     {
-      "fundCode": "DIE01",
-      "fundName": "元大滬深300單日正向2倍基金",
-      "isinCode": "00637L",
+      "fundCode": "DIE33",
+      "fundName": "元大優息10年期以上已開發市場投資級美元公司債券ETF基金",
+      "isinCode": "00968B",
       "company": "元大投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "15.61",
+      "latestNav": "9.0233",
       "navDate": "20261120"
     },
     {
-      "fundCode": "DIM03",
-      "fundName": "元大美元貨幣市場基金-新台幣",
-      "isinCode": "T05A1A",
+      "fundCode": "DIOD1",
+      "fundName": "元大全球航太與防衛科技ETF連結基金",
+      "isinCode": "T05C5Y",
       "company": "元大投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "12.6339",
+      "latestNav": "9.56",
       "navDate": "20261120"
     },
     {
@@ -278,59 +278,59 @@
       "navDate": "20261120"
     },
     {
-      "fundCode": "DIE01",
-      "fundName": "復華滬深300 A股基金",
-      "isinCode": "006207",
+      "fundCode": "DDA01",
+      "fundName": "復華台灣未來50主動式ETF基金",
+      "isinCode": "00991A",
       "company": "復華投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "29.11",
+      "latestNav": "11.1",
+      "navDate": "20261123"
+    },
+    {
+      "fundCode": "DIA01",
+      "fundName": "復華全球金融股票入息主動式ETF基金",
+      "isinCode": "00998A",
+      "company": "復華投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "15.65",
       "navDate": "20261120"
     },
     {
-      "fundCode": "DIE03",
-      "fundName": "復華恒生單日正向二倍基金",
-      "isinCode": "00650L",
+      "fundCode": "DIA02",
+      "fundName": "復華全球金融債券入息主動式ETF基金",
+      "isinCode": "00986D",
       "company": "復華投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "13.6",
+      "latestNav": "14.33",
       "navDate": "20261120"
     },
     {
-      "fundCode": "DIE04",
-      "fundName": "復華恒生單日反向一倍基金",
-      "isinCode": "00651R",
+      "fundCode": "DIA03",
+      "fundName": "復華全球未來50主動式ETF基金",
+      "isinCode": "00409A",
       "company": "復華投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "5.86",
+      "latestNav": "6.36",
       "navDate": "20261120"
     },
     {
-      "fundCode": "DIE18",
-      "fundName": "復華中國5G通信ETF基金",
-      "isinCode": "00877",
+      "fundCode": "DDO18",
+      "fundName": "復華台灣菁英50指數基金",
+      "isinCode": "T22D1Y",
       "company": "復華投信",
       "type": "境內基金",
       "region": "境內",
       "currency": "TWD",
-      "latestNav": "21.7",
-      "navDate": "20261120"
-    },
-    {
-      "fundCode": "DIE20",
-      "fundName": "復華日本護城河優勢龍頭企業ETF基金",
-      "isinCode": "00949",
-      "company": "復華投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "18.53",
-      "navDate": "20261120"
+      "latestNav": "7.79",
+      "navDate": "20261123"
     },
     {
       "fundCode": "DDO36",
@@ -451,6 +451,61 @@
       "region": "境內",
       "currency": "USD",
       "latestNav": "11.34",
+      "navDate": "20261120"
+    },
+    {
+      "fundCode": "DIE81",
+      "fundName": "台新日本半導體ETF基金",
+      "isinCode": "00951",
+      "company": "台新投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "9.82",
+      "navDate": "20261120"
+    },
+    {
+      "fundCode": "DIOI3",
+      "fundName": "台新美日台半導體基金-新臺幣A",
+      "isinCode": "T4775A",
+      "company": "台新投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "13.17",
+      "navDate": "20261120"
+    },
+    {
+      "fundCode": "DIOI4",
+      "fundName": "台新美日台半導體基金-新臺幣NA(後收)",
+      "isinCode": "T4775B",
+      "company": "台新投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "13.17",
+      "navDate": "20261120"
+    },
+    {
+      "fundCode": "DIOI5",
+      "fundName": "台新美日台半導體基金-新臺幣I(法人)",
+      "isinCode": "T4775C",
+      "company": "台新投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "9.94",
+      "navDate": "20261120"
+    },
+    {
+      "fundCode": "DIOI6",
+      "fundName": "台新美日台半導體基金-美元A",
+      "isinCode": "T4775D",
+      "company": "台新投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "USD",
+      "latestNav": "12.851",
       "navDate": "20261120"
     },
     {
@@ -1046,61 +1101,6 @@
       "currency": "TWD",
       "latestNav": "11.68",
       "navDate": "20261120"
-    },
-    {
-      "fundCode": "DIOF5",
-      "fundName": "安聯AI收益成長多重資產基金-HB類型(月配息)-新臺幣(避險)",
-      "isinCode": "T3640E",
-      "company": "安聯投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "9.92",
-      "navDate": "20261120"
-    },
-    {
-      "fundCode": "AAETA",
-      "fundName": "柏瑞環球基金-柏瑞美國研究增值核心股票基金 A",
-      "isinCode": "IE0034235303",
-      "company": "柏瑞投資愛爾蘭有限公司/PINEBRIDGE INVESTMENTS IRELAND LIMITED",
-      "type": "境外基金",
-      "region": "境外",
-      "currency": "USD",
-      "latestNav": "75.839700",
-      "navDate": "20261119"
-    },
-    {
-      "fundCode": "AAETY",
-      "fundName": "柏瑞環球基金-柏瑞美國研究增值核心股票基金 Y",
-      "isinCode": "IE0000018873",
-      "company": "柏瑞投資愛爾蘭有限公司/PINEBRIDGE INVESTMENTS IRELAND LIMITED",
-      "type": "境外基金",
-      "region": "境外",
-      "currency": "USD",
-      "latestNav": "517.173900",
-      "navDate": "20261119"
-    },
-    {
-      "fundCode": "AASCA",
-      "fundName": "柏瑞環球基金-柏瑞亞洲(日本除外)小型公司股票基金 A",
-      "isinCode": "IE00B12V2V27",
-      "company": "柏瑞投資愛爾蘭有限公司/PINEBRIDGE INVESTMENTS IRELAND LIMITED",
-      "type": "境外基金",
-      "region": "境外",
-      "currency": "USD",
-      "latestNav": "43.294600",
-      "navDate": "20261119"
-    },
-    {
-      "fundCode": "AASCY",
-      "fundName": "柏瑞環球基金-柏瑞亞洲(日本除外)小型公司股票基金 Y",
-      "isinCode": "IE0003895277",
-      "company": "柏瑞投資愛爾蘭有限公司/PINEBRIDGE INVESTMENTS IRELAND LIMITED",
-      "type": "境外基金",
-      "region": "境外",
-      "currency": "USD",
-      "latestNav": "1016.402000",
-      "navDate": "20261119"
     }
   ]
 }
