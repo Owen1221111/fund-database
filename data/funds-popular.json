@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-11-27T18:31:29.393327+08:00",
+  "lastUpdate": "2026-11-27T22:30:24.675839+08:00",
   "count": 100,
   "funds": [
     {
@@ -454,6 +454,61 @@
       "navDate": "20261126"
     },
     {
+      "fundCode": "DIE81",
+      "fundName": "台新日本半導體ETF基金",
+      "isinCode": "00951",
+      "company": "台新投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "9.9",
+      "navDate": "20261126"
+    },
+    {
+      "fundCode": "DDE03",
+      "fundName": "台新臺灣AI優息動能ETF基金",
+      "isinCode": "00962",
+      "company": "台新投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "11.71",
+      "navDate": "20261127"
+    },
+    {
+      "fundCode": "DDA01",
+      "fundName": "台新臺灣優勢成長主動式ETF基金",
+      "isinCode": "00987A",
+      "company": "台新投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "11.71",
+      "navDate": "20261127"
+    },
+    {
+      "fundCode": "DDA02",
+      "fundName": "台新臺灣中小主動式ETF基金",
+      "isinCode": "00416A",
+      "company": "台新投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "7.59",
+      "navDate": "20261127"
+    },
+    {
+      "fundCode": "DDOY2",
+      "fundName": "台新台灣富貴基金",
+      "isinCode": "T1411Y",
+      "company": "台新投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "135.92",
+      "navDate": "20261127"
+    },
+    {
       "fundCode": "DIE23",
       "fundName": "中國信託日經高股息50 ETF基金",
       "isinCode": "00956",
@@ -617,6 +672,61 @@
       "currency": "TWD",
       "latestNav": "109.04",
       "navDate": "20261127"
+    },
+    {
+      "fundCode": "DIOC1",
+      "fundName": "第一金量化日本基金-新臺幣",
+      "isinCode": "T0366A",
+      "company": "第一金投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "13.82",
+      "navDate": "20261126"
+    },
+    {
+      "fundCode": "DIOC2",
+      "fundName": "第一金量化日本基金-日圓",
+      "isinCode": "T0366B",
+      "company": "第一金投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "JPY",
+      "latestNav": "145.62",
+      "navDate": "20261126"
+    },
+    {
+      "fundCode": "DDA01",
+      "fundName": "第一金台股趨勢優選主動式ETF基金",
+      "isinCode": "00994A",
+      "company": "第一金投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "12.02",
+      "navDate": "20261127"
+    },
+    {
+      "fundCode": "DDA02",
+      "fundName": "第一金台股趨勢優股息主動式ETF基金",
+      "isinCode": "00408A",
+      "company": "第一金投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "7.47",
+      "navDate": "20261127"
+    },
+    {
+      "fundCode": "DIOC6",
+      "fundName": "第一金全球動態入息多重資產基金-累積型-新臺幣",
+      "isinCode": "T0368A",
+      "company": "第一金投信",
+      "type": "境內基金",
+      "region": "境內",
+      "currency": "TWD",
+      "latestNav": "9.698",
+      "navDate": "20261126"
     },
     {
       "fundCode": "DDO01",
@@ -991,116 +1101,6 @@
       "currency": "TWD",
       "latestNav": "229.38",
       "navDate": "20261127"
-    },
-    {
-      "fundCode": "DDO10",
-      "fundName": "安聯台灣大壩基金-G類型-新臺幣",
-      "isinCode": "T3601B",
-      "company": "安聯投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "72.59",
-      "navDate": "20261127"
-    },
-    {
-      "fundCode": "DIODD",
-      "fundName": "柏瑞日本多重資產基金-A類型",
-      "isinCode": "T2140A",
-      "company": "大都會投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "11.3429",
-      "navDate": "20261126"
-    },
-    {
-      "fundCode": "DIODE",
-      "fundName": "柏瑞日本多重資產基金-B類型",
-      "isinCode": "T2140B",
-      "company": "大都會投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "10.5826",
-      "navDate": "20261126"
-    },
-    {
-      "fundCode": "DIODF",
-      "fundName": "柏瑞日本多重資產基金-N類型",
-      "isinCode": "T2140C",
-      "company": "大都會投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "10.5838",
-      "navDate": "20261126"
-    },
-    {
-      "fundCode": "DIODG",
-      "fundName": "柏瑞日本多重資產基金-N9類型",
-      "isinCode": "T2140D",
-      "company": "大都會投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "11.3435",
-      "navDate": "20261126"
-    },
-    {
-      "fundCode": "DIODH",
-      "fundName": "柏瑞日本多重資產基金-I類型",
-      "isinCode": "T2140E",
-      "company": "大都會投信",
-      "type": "境內基金",
-      "region": "境內",
-      "currency": "TWD",
-      "latestNav": "11.054",
-      "navDate": "20261126"
-    },
-    {
-      "fundCode": "AB02X",
-      "fundName": "安本標準 — 全方位中國可持續股票基金 X 累積 美元",
-      "isinCode": "LU0837970705",
-      "company": "ABRDN INVESTMENTS LUXEMBOURG S.A.",
-      "type": "境外基金",
-      "region": "境外",
-      "currency": "USD",
-      "latestNav": "10.366900",
-      "navDate": "20261125"
-    },
-    {
-      "fundCode": "AECHINESE",
-      "fundName": "安本標準 — 全方位中國可持續股票基金 A 累積 美元",
-      "isinCode": "LU0231483743",
-      "company": "ABRDN INVESTMENTS LUXEMBOURG S.A.",
-      "type": "境外基金",
-      "region": "境外",
-      "currency": "USD",
-      "latestNav": "22.198200",
-      "navDate": "20261125"
-    },
-    {
-      "fundCode": "IE0000442V77",
-      "fundName": "PIMCO收益增長基金-M級類別(歐元避險)(月收息強化股份)",
-      "isinCode": "IE0000442V77",
-      "company": "PIMCO GLOBAL ADVISORS (IRELAND) LIMITED",
-      "type": "境外基金",
-      "region": "境外",
-      "currency": "EUR",
-      "latestNav": "10.640000",
-      "navDate": "20261125"
-    },
-    {
-      "fundCode": "IE0002GOY871",
-      "fundName": "PIMCO收益增長基金-M級類別(瑞士法郎避險)(月收息強化股份)",
-      "isinCode": "IE0002GOY871",
-      "company": "PIMCO GLOBAL ADVISORS (IRELAND) LIMITED",
-      "type": "境外基金",
-      "region": "境外",
-      "currency": "CHF",
-      "latestNav": "10.320000",
-      "navDate": "20261125"
     }
   ]
 }
